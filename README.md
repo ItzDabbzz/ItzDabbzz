@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Javascript, C#
 - 📫 How to reach me ɪᴛᴢᴅᴀʙʙᴢᴢ#0001
 
-                    buymeacoffee.com/ItzDabbzz                
+- http://itzdabbzz.me
+- https://buymeacoffee.com/ItzDabbzz                
 
 I currently code Discord bots of any types for private use. Completly custom to your needs depending on what you want.
