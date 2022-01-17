@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ItzDabbzz
 - 👀 I’m interested in coding, computers, helping friends, building communities, and servers.
 - 🌱 I’m currently learning Javascript, C#
-- 📫 How to reach me ɪᴛᴢᴅᴀʙʙᴢᴢ#0001
+- 📫 How to reach me ɪᴛᴢᴅᴀʙʙᴢᴢ#0777
 
 - http://itzdabbzz.me
 - https://buymeacoffee.com/ItzDabbzz                
