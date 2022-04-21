@@ -97,7 +97,7 @@ I currently code Discord bots of any types for private use. Completly custom to 
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows/windows.svg"
+        src="https://github.com/vorillaz/devicons/blob/master/!SVG/windows.svg"
         width="48"
         height="48"
         alt="Windows"
