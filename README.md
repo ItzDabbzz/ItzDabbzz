@@ -47,10 +47,8 @@ I currently code Discord bots of any types for private use. Completly custom to 
         alt="Bootstrap"
       />
       <br /><strong>Bootstrap</strong>
-    </td> 
-  </tr>
-  <tr>
-    <td align="center" height="108" width="108">
+    </td>
+      <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
         width="48"
@@ -59,6 +57,8 @@ I currently code Discord bots of any types for private use. Completly custom to 
       />
       <br /><strong>Node.js</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
@@ -94,6 +94,24 @@ I currently code Discord bots of any types for private use. Completly custom to 
         alt="Npm"
       />
       <br /><strong>Npm</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows/windows-original.svg"
+        width="48"
+        height="48"
+        alt="Node.js"
+      />
+      <br /><strong>Windows</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"
+        width="48"
+        height="48"
+        alt="Android"
+      />
+      <br /><strong>Windows</strong>
     </td>
   </tr>
 </table>
