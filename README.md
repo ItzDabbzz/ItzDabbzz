@@ -111,7 +111,7 @@ I currently code Discord bots of any types for private use. Completly custom to 
         height="48"
         alt="Android"
       />
-      <br /><strong>Windows</strong>
+      <br /><strong>Android</strong>
     </td>
   </tr>
 </table>
