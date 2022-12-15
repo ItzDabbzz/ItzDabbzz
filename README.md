@@ -5,7 +5,8 @@
 - 📫 How to reach me ɪᴛᴢᴅᴀʙʙᴢᴢ#0777
 
 - http://itzdabbzz.me
-- https://buymeacoffee.com/ItzDabbzz                
+- https://buymeacoffee.com/ItzDabbzz
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E3H1XXX)
 
 I currently code Discord bots of any types for private use and protection against spam bots.
 
