@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, computers, helping friends, building communities, and servers.
 - 🌱 I’m currently learning C++, C#.
 - 👩🏻‍💻 I'm decently fluent in Javascript/Node.JS, a little bit of Java, and .NET.
-- 📫 How to reach me ɪᴛᴢᴅᴀʙʙᴢᴢ#0777
+- 📫 Discord -> itzdabbzz
 
 - http://itzdabbzz.me
 - https://buymeacoffee.com/ItzDabbzz
