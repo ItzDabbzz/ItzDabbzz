@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ItzDabbzz
 - 👀 I’m interested in coding, computers, helping friends, building communities, and servers.
-- 🌱 I’m currently learning C++, C#.
+- 🌱 I’m currently learning Go and attempting to study rust.
 - 👩🏻‍💻 I'm decently fluent in Javascript/Node.JS, a little bit of Java, and .NET.
-- 📫 Discord -> itzdabbzz
+- 📫 Discord -> ItzDabbzz
 
-- http://itzdabbzz.me
+- https://itzdabbzz.me
 - https://buymeacoffee.com/ItzDabbzz
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E3H1XXX)
 
