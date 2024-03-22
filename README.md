@@ -15,4 +15,4 @@ I currently code random bs projects that don't mean much :)
 
 --------------------------------------------------------------------------------------------------
 
-![Metrics](/github-metrics.svg)
+![Metrics](./github-metrics.svg)
