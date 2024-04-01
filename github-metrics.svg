@@ -220,22 +220,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">nvim</span>
-                                <div class="bar" style="width: 68.576%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">86%</span>
+                                <div class="bar" style="width: 59.04%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">74%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 7.631999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">10%</span>
+                                <div class="bar" style="width: 15.488%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">19%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Qbox</span>
-                                <div class="bar" style="width: 2.432%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.544%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
+                                <span class="name">Dabz-Utils</span>
+                                <div class="bar" style="width: 1.496%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
+                            </div>
+                            <div class="entry">
                                 <span class="name">backup</span>
-                                <div class="bar" style="width: 1.36%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.424%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                         </div>
@@ -245,28 +250,28 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Lua</span>
-                                <div class="bar" style="width: 57.592%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">72%</span>
+                                <div class="bar" style="width: 50.232%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">63%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JSON</span>
-                                <div class="bar" style="width: 13.048%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">16%</span>
+                                <div class="bar" style="width: 13.928%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">17%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 7.064%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 7.552%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">9%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 1.592%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
+                                <div class="bar" style="width: 5.224%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">7%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">PowerShell</span>
-                                <div class="bar" style="width: 0.552%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <span class="name">JavaScript</span>
+                                <div class="bar" style="width: 2.3280000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
                             </div>
                         </div>
                     </section>
@@ -471,7 +476,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="59.93333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="60.45 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -493,7 +498,7 @@
                                     <span class="prefix">Great</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 316 times</div>
+                                <div class="text">Repositories have been deployed 317 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -602,7 +607,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.44m out of 72.7m repositories</span>
+                                    <span class="gh">ranked 1.44m out of 70.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 15 stars</div>
                             </div>
@@ -806,7 +811,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.20m out of 72.7m repositories</span>
+                                    <span class="gh">ranked 5.20m out of 70.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
