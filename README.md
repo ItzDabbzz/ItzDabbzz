@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ItzDabbzz
 - 👀 I’m interested in coding, computers, helping friends, building communities, and servers.
-- 🌱 I’m currently learning Go and attempting to study rust.
+- 🌱 I’m currently learning Go, While pushing my TypeScript knowledge.
 - 👩🏻‍💻 I'm decently fluent in Javascript/Node.JS, a little bit of Java, and .NET.
 - 📫 Discord -> ItzDabbzz
 
