@@ -14,8 +14,8 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: dabz metrics
-        uses: ItzDabbzz/metrics@master
+      - name: ItzDabbzz/metrics
+        uses: Imikey-/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: ItzDabbzz
