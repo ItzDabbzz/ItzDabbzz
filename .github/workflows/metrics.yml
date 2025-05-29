@@ -15,8 +15,9 @@ jobs:
       contents: write
     steps:
       - name: ItzDabbzz/metrics
-        uses: mikey-/metrics@master
+        uses: felipecrs/metrics@master
         with:
+          use_prebuilt_image: no
           token: ${{ secrets.METRICS_TOKEN }}
           user: ItzDabbzz
           base: header, activity, community, repositories, metadata
