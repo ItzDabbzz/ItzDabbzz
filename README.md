@@ -3,6 +3,7 @@
 [ AuDHD, BPD, Bi-Polar, Anxiety, Memory Loss Issues ]
 
 Site: https://itzdabbzz.me/
+Discord: itzdabbzz
 
 --------------------------------------------------------------------------------------------------
 ## Wanna Donate? 
