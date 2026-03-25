@@ -20,10 +20,9 @@ Bio/Links
 
 ---
 
-<p align="center">
-  Last refresh: <b><!--TIMESTAMP:{"format":"dddd, MMMM Do YYYY, h:mm:ss"}--></b>
-</p>
-
 <!--GITHUB_REPOS:{"rows":5,"sort":"`stars`","raw":false,"showBadges":true}-->
 
 <!--WAKATIME:{"range":"last_7_days","showLanguages":true,"showEditors":true,"style":"table","showBadges":true,"showTime":true}-->
+
+
+Last refresh: <b><!--TIMESTAMP:{"format":"dddd, MMMM Do YYYY, h:mm:ss"}--></b>
