@@ -1,10 +1,5 @@
 name: ReadMe
 
-on:
-    schedule: [{ cron: "0 14 */7 * *" }]
-    workflow_dispatch:
-    push: { branches: ["master", "main"] }
-
 jobs:
     publish:
         runs-on: ubuntu-latest
@@ -17,11 +12,16 @@ jobs:
             - name: Create README.md
               uses: ItzDabbzz/profile-readme@v0.2.0
               with:
-                  username: ItzDabbzz
                   github_token: ${{ secrets.GITHUB_TOKEN }}
+                  username: ItzDabbzz
                   wakatime_key: ${{ secrets.WAKATIME_KEY }}
 
             - name: Commit & Push changes
               uses: actions-js/push@master
               with:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
+
+on:
+    push: { branches: ["master", "main"] }
+    schedule: [{ cron: "0 14 */7 * *" }]
+    workflow_dispatch:
