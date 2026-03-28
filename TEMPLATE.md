@@ -8,8 +8,8 @@ Bio/Links
 <p align="center">
 「 ✦ AuDHD, BPD, BiPolar, Anxiety ✦ 」
 </p>
-> I currently code random bs projects that don't mean much :)
 
+> I currently code random bs projects that don't mean much :)
 
 [![Website](https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://itzdabbzz.me)
 [![Discord](https://img.shields.io/badge/Discord-ITZDABBZZ-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/94268356483362816)
@@ -20,9 +20,16 @@ Bio/Links
 
 ---
 
-<!--GITHUB_REPOS:{"rows":5,"sort":"`stars`","raw":false,"showBadges":true}-->
+# Activity
+
+<!--GITHUB_ACTIVITY:{"rows": 7, "showLinks": true}-->
+
+---
+
+# WakaTime
 
 <!--WAKATIME:{"range":"last_7_days","showLanguages":true,"showEditors":true,"style":"table","showBadges":true,"showTime":true}-->
 
+---
 
 Last refresh: <b><!--TIMESTAMP:{"format":"dddd, MMMM Do YYYY, h:mm:ss"}--></b>
