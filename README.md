@@ -20,43 +20,43 @@ Bio/Links
 
 ---
 
-| | Repo | Stars | Lang | Description |
-|---|---|---|---|---|
-| 📦 | [PalworldModding/Docs](https://github.com/PalworldModding/Docs) | ![Stars](https://img.shields.io/github/stars/PalworldModding/Docs?style=flat-square&color=e3b341&labelColor=1c2128&label=⭐) |  | Guides for modding palworld  |
-| 📦 | [PalworldModding/UsefulFiles](https://github.com/PalworldModding/UsefulFiles) | ![Stars](https://img.shields.io/github/stars/PalworldModding/UsefulFiles?style=flat-square&color=e3b341&labelColor=1c2128&label=⭐) |  | Useful files for palworld modding |
-| 📦 | [ItzDabbzz/PV-QB-Integration](https://github.com/ItzDabbzz/PV-QB-Integration) | ![Stars](https://img.shields.io/github/stars/ItzDabbzz/PV-QB-Integration?style=flat-square&color=e3b341&labelColor=1c2128&label=⭐) |  |  |
-| 📦 | [ItzDabbzz/TXRestartCommand](https://github.com/ItzDabbzz/TXRestartCommand) | ![Stars](https://img.shields.io/github/stars/ItzDabbzz/TXRestartCommand?style=flat-square&color=e3b341&labelColor=1c2128&label=⭐) |  | TXAdmin In-Game Restart Command |
-| 📦 | [it-zeusx/ZSX_Handler](https://github.com/it-zeusx/ZSX_Handler) | ![Stars](https://img.shields.io/github/stars/it-zeusx/ZSX_Handler?style=flat-square&color=e3b341&labelColor=1c2128&label=⭐) |  |  |
+| | Repo | Stars | Description |
+|---|---|---|---|
+| 📦 | [PalworldModding/Docs](https://github.com/PalworldModding/Docs) | ![Stars](https://img.shields.io/github/stars/PalworldModding/Docs?style=flat-square&color=e3b341&labelColor=1c2128&label=⭐) | `Guides for modding palworld ` |
+| 📦 | [PalworldModding/UsefulFiles](https://github.com/PalworldModding/UsefulFiles) | ![Stars](https://img.shields.io/github/stars/PalworldModding/UsefulFiles?style=flat-square&color=e3b341&labelColor=1c2128&label=⭐) | `Useful files for palworld modding` |
+| 📦 | [ItzDabbzz/PV-QB-Integration](https://github.com/ItzDabbzz/PV-QB-Integration) | ![Stars](https://img.shields.io/github/stars/ItzDabbzz/PV-QB-Integration?style=flat-square&color=e3b341&labelColor=1c2128&label=⭐) |  |
+| 📦 | [ItzDabbzz/TXRestartCommand](https://github.com/ItzDabbzz/TXRestartCommand) | ![Stars](https://img.shields.io/github/stars/ItzDabbzz/TXRestartCommand?style=flat-square&color=e3b341&labelColor=1c2128&label=⭐) | `TXAdmin In-Game Restart Command` |
+| 📦 | [it-zeusx/ZSX_Handler](https://github.com/it-zeusx/ZSX_Handler) | ![Stars](https://img.shields.io/github/stars/it-zeusx/ZSX_Handler?style=flat-square&color=e3b341&labelColor=1c2128&label=⭐) |  |
 
 ## ⏱ WakaTime Stats
-> Last 7 Days · **23 hrs 6 mins** · 🌍 America/Chicago
+> Last 7 Days · **28 hrs 58 mins** · 🌍 America/Chicago
 
-![Total](https://img.shields.io/badge/Total-23%20hrs%206%20mins-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-18-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-1-58a6ff?style=flat-square)
+![Total](https://img.shields.io/badge/Total-28%20hrs%2058%20mins-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-18-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-1-58a6ff?style=flat-square)
 
 ## 🏆 Highlights
-- Top Language: **TypeScript** (46.4%)
+- Top Language: **TypeScript** (50.5%)
 
 ### 💬 Languages
 | Name | Time | Usage |
 |------|------|-------|
-| ![TypeScript](https://img.shields.io/badge/TypeScript--3178c6?style=flat-square) | 11h 40m | `█████████░░░░░░░░░░░` 46.4% |
-| ![JSON](https://img.shields.io/badge/JSON--58a6ff?style=flat-square) | 4h 34m | `████░░░░░░░░░░░░░░░░` 18.2% |
-| ![Other](https://img.shields.io/badge/Other--58a6ff?style=flat-square) | 2h 3m | `██░░░░░░░░░░░░░░░░░░` 8.2% |
-| ![Markdown](https://img.shields.io/badge/Markdown--58a6ff?style=flat-square) | 1h 25m | `█░░░░░░░░░░░░░░░░░░░` 5.7% |
-| ![Terraform](https://img.shields.io/badge/Terraform--58a6ff?style=flat-square) | 1h 13m | `█░░░░░░░░░░░░░░░░░░░` 4.9% |
+| ![TypeScript](https://img.shields.io/badge/TypeScript--3178c6?style=flat-square) | 15h 42m | `██████████░░░░░░░░░░` 50.5% |
+| ![JSON](https://img.shields.io/badge/JSON--58a6ff?style=flat-square) | 4h 39m | `███░░░░░░░░░░░░░░░░░` 15.0% |
+| ![Markdown](https://img.shields.io/badge/Markdown--58a6ff?style=flat-square) | 2h 28m | `██░░░░░░░░░░░░░░░░░░` 8.0% |
+| ![Other](https://img.shields.io/badge/Other--58a6ff?style=flat-square) | 2h 6m | `█░░░░░░░░░░░░░░░░░░░` 6.8% |
+| ![YAML](https://img.shields.io/badge/YAML--58a6ff?style=flat-square) | 1h 39m | `█░░░░░░░░░░░░░░░░░░░` 5.3% |
 
 
 ### 🔥 Editors
 | Name | Time | Usage |
 |------|------|-------|
-| ![VS Code](https://img.shields.io/badge/VS%20Code--58a6ff?style=flat-square) | 25h 10m | `████████████████████` 100.0% |
+| ![VS Code](https://img.shields.io/badge/VS%20Code--58a6ff?style=flat-square) | 31h 4m | `████████████████████` 100.0% |
 
 
 ### 🖥 OS
 | Name | Time | Usage |
 |------|------|-------|
-| ![Linux](https://img.shields.io/badge/Linux--58a6ff?style=flat-square) | 25h 10m | `████████████████████` 100.0% |
+| ![Linux](https://img.shields.io/badge/Linux--58a6ff?style=flat-square) | 31h 4m | `████████████████████` 100.0% |
 
 
 
-Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Friday%252C%2520March%252027th%25202026%252C%25208-31-53-58a6ff?style=flat-square)</b>
+Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Saturday%2C_March_28th_2026%2C_12%3A04%3A11-58a6ff?style=flat-square)</b>
