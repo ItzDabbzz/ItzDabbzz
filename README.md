@@ -8,8 +8,8 @@ Bio/Links
 <p align="center">
 「 ✦ AuDHD, BPD, BiPolar, Anxiety ✦ 」
 </p>
-> I currently code random bs projects that don't mean much :)
 
+> I currently code random bs projects that don't mean much :)
 
 [![Website](https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://itzdabbzz.me)
 [![Discord](https://img.shields.io/badge/Discord-ITZDABBZZ-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/94268356483362816)
@@ -20,13 +20,21 @@ Bio/Links
 
 ---
 
-| | Repo | Stars | Description |
-|---|---|---|---|
-| 📦 | [PalworldModding/Docs](https://github.com/PalworldModding/Docs) | ![Stars](https://img.shields.io/github/stars/PalworldModding/Docs?style=flat-square&color=e3b341&labelColor=1c2128&label=⭐) | `Guides for modding palworld ` |
-| 📦 | [PalworldModding/UsefulFiles](https://github.com/PalworldModding/UsefulFiles) | ![Stars](https://img.shields.io/github/stars/PalworldModding/UsefulFiles?style=flat-square&color=e3b341&labelColor=1c2128&label=⭐) | `Useful files for palworld modding` |
-| 📦 | [ItzDabbzz/PV-QB-Integration](https://github.com/ItzDabbzz/PV-QB-Integration) | ![Stars](https://img.shields.io/github/stars/ItzDabbzz/PV-QB-Integration?style=flat-square&color=e3b341&labelColor=1c2128&label=⭐) |  |
-| 📦 | [ItzDabbzz/TXRestartCommand](https://github.com/ItzDabbzz/TXRestartCommand) | ![Stars](https://img.shields.io/github/stars/ItzDabbzz/TXRestartCommand?style=flat-square&color=e3b341&labelColor=1c2128&label=⭐) | `TXAdmin In-Game Restart Command` |
-| 📦 | [it-zeusx/ZSX_Handler](https://github.com/it-zeusx/ZSX_Handler) | ![Stars](https://img.shields.io/github/stars/it-zeusx/ZSX_Handler?style=flat-square&color=e3b341&labelColor=1c2128&label=⭐) |  |
+# Activity
+
+| | Event | Repo |
+|---|---|---|
+| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed 0 commits to [`main`](https://github.com/ItzDabbzz/ItzDabbzz/tree/main) in **[ItzDabbzz/ItzDabbzz](https://github.com/ItzDabbzz/ItzDabbzz)** ([`c40aa58`](https://github.com/ItzDabbzz/ItzDabbzz/commit/c40aa58fb1c752f767f4270990c843d51e3f3e8c)) | **[ItzDabbzz/ItzDabbzz](https://github.com/ItzDabbzz/ItzDabbzz)** |
+| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed 0 commits to [`main`](https://github.com/ItzDabbzz/ItzDabbzz/tree/main) in **[ItzDabbzz/ItzDabbzz](https://github.com/ItzDabbzz/ItzDabbzz)** ([`1229ef4`](https://github.com/ItzDabbzz/ItzDabbzz/commit/1229ef48c40fdb9de05207ea5940ab9cc12d015e)) | **[ItzDabbzz/ItzDabbzz](https://github.com/ItzDabbzz/ItzDabbzz)** |
+| ![release](https://img.shields.io/badge/release-3fb950?style=flat-square) | 🚀 Published release [` Profile Readme Widgets`](https://github.com/ItzDabbzz/profile-readme/releases/tag/v0.2.2) in **[ItzDabbzz/profile-readme](https://github.com/ItzDabbzz/profile-readme)** | **[ItzDabbzz/profile-readme](https://github.com/ItzDabbzz/profile-readme)** |
+| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed 0 commits to [`master`](https://github.com/ItzDabbzz/profile-readme/tree/master) in **[ItzDabbzz/profile-readme](https://github.com/ItzDabbzz/profile-readme)** ([`69b50f2`](https://github.com/ItzDabbzz/profile-readme/commit/69b50f266b41c33382fb1d673cacb00c1a9acfd7)) | **[ItzDabbzz/profile-readme](https://github.com/ItzDabbzz/profile-readme)** |
+| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed 0 commits to [`main`](https://github.com/ItzDabbzz/ItzDabbzz/tree/main) in **[ItzDabbzz/ItzDabbzz](https://github.com/ItzDabbzz/ItzDabbzz)** ([`e483c3f`](https://github.com/ItzDabbzz/ItzDabbzz/commit/e483c3fabe6ac732031be7231bb294bbc8942eee)) | **[ItzDabbzz/ItzDabbzz](https://github.com/ItzDabbzz/ItzDabbzz)** |
+| ![public](https://img.shields.io/badge/public-3fb950?style=flat-square) | 🎉 Made **[ItzDabbzz/DabbzzFramework](https://github.com/ItzDabbzz/DabbzzFramework)** public | **[ItzDabbzz/DabbzzFramework](https://github.com/ItzDabbzz/DabbzzFramework)** |
+| ![public](https://img.shields.io/badge/public-3fb950?style=flat-square) | 🎉 Made **[ItzDabbzz/ManiaDiscord](https://github.com/ItzDabbzz/ManiaDiscord)** public | **[ItzDabbzz/ManiaDiscord](https://github.com/ItzDabbzz/ManiaDiscord)** |
+
+---
+
+# WakaTime
 
 ## ⏱ WakaTime Stats
 > Last 7 Days · **28 hrs 58 mins** · 🌍 America/Chicago
@@ -58,5 +66,6 @@ Bio/Links
 | ![Linux](https://img.shields.io/badge/Linux--58a6ff?style=flat-square) | 31h 4m | `████████████████████` 100.0% |
 
 
+---
 
-Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Saturday%2C_March_28th_2026%2C_12%3A04%3A11-58a6ff?style=flat-square)</b>
+Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Saturday%2C_March_28th_2026%2C_12%3A11%3A26-58a6ff?style=flat-square)</b>
