@@ -24,49 +24,49 @@ Bio/Links
 
 | | Event | Repo |
 |---|---|---|
+| ![star](https://img.shields.io/badge/star-e3b341?style=flat-square) | ⭐ Starred **[open-webui/open-webui](https://github.com/open-webui/open-webui)** | **[open-webui/open-webui](https://github.com/open-webui/open-webui)** |
 | ![star](https://img.shields.io/badge/star-e3b341?style=flat-square) | ⭐ Starred **[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)** | **[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)** |
 | ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed 0 commits to [`main`](https://github.com/ItzDabbzz/ItzDabbzz/tree/main) in **[ItzDabbzz/ItzDabbzz](https://github.com/ItzDabbzz/ItzDabbzz)** ([`2c501f3`](https://github.com/ItzDabbzz/ItzDabbzz/commit/2c501f399abdeb8334676286896cd24c2f8438be)) | **[ItzDabbzz/ItzDabbzz](https://github.com/ItzDabbzz/ItzDabbzz)** |
 | ![star](https://img.shields.io/badge/star-e3b341?style=flat-square) | ⭐ Starred **[PurpleAILAB/Decepticon](https://github.com/PurpleAILAB/Decepticon)** | **[PurpleAILAB/Decepticon](https://github.com/PurpleAILAB/Decepticon)** |
 | ![star](https://img.shields.io/badge/star-e3b341?style=flat-square) | ⭐ Starred **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** | **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** |
 | ![star](https://img.shields.io/badge/star-e3b341?style=flat-square) | ⭐ Starred **[mthcht/awesome-lists](https://github.com/mthcht/awesome-lists)** | **[mthcht/awesome-lists](https://github.com/mthcht/awesome-lists)** |
 | ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed 0 commits to [`main`](https://github.com/ItzDabbzz/dabz_sl/tree/main) in **[ItzDabbzz/dabz_sl](https://github.com/ItzDabbzz/dabz_sl)** ([`3698a48`](https://github.com/ItzDabbzz/dabz_sl/commit/3698a480458f10ae9ede42a47e63defbe53dcf20)) | **[ItzDabbzz/dabz_sl](https://github.com/ItzDabbzz/dabz_sl)** |
-| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed 0 commits to [`main`](https://github.com/ItzDabbzz/dabz_sl/tree/main) in **[ItzDabbzz/dabz_sl](https://github.com/ItzDabbzz/dabz_sl)** ([`bbc8a6e`](https://github.com/ItzDabbzz/dabz_sl/commit/bbc8a6e463275e1f1481170a0f10a4aae6479fe9)) | **[ItzDabbzz/dabz_sl](https://github.com/ItzDabbzz/dabz_sl)** |
 
 ---
 
 # WakaTime
 
 ## ⏱ WakaTime Stats
-> Last 7 Days · **40 hrs 52 mins** · 🌍 America/Chicago
+> Last 7 Days · **40 hrs 39 mins** · 🌍 America/Chicago
 
-![Total](https://img.shields.io/badge/Total-40%20hrs%2052%20mins-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-20-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-1-58a6ff?style=flat-square)
+![Total](https://img.shields.io/badge/Total-40%20hrs%2039%20mins-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-20-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-1-58a6ff?style=flat-square)
 
 ## 🏆 Highlights
-- Top Language: **TypeScript** (38.3%)
+- Top Language: **TypeScript** (38.4%)
 
 ### 💬 Languages
 | Name | Time | Usage |
 |------|------|-------|
-| ![TypeScript](https://img.shields.io/badge/TypeScript--3178c6?style=flat-square) | 20h 14m | `████████░░░░░░░░░░░░` 38.3% |
-| ![Other](https://img.shields.io/badge/Other--58a6ff?style=flat-square) | 12h 1m | `█████░░░░░░░░░░░░░░░` 22.7% |
+| ![TypeScript](https://img.shields.io/badge/TypeScript--3178c6?style=flat-square) | 20h 14m | `████████░░░░░░░░░░░░` 38.4% |
+| ![Other](https://img.shields.io/badge/Other--58a6ff?style=flat-square) | 12h 1m | `█████░░░░░░░░░░░░░░░` 22.8% |
 | ![JSON](https://img.shields.io/badge/JSON--58a6ff?style=flat-square) | 6h 39m | `███░░░░░░░░░░░░░░░░░` 12.6% |
 | ![Markdown](https://img.shields.io/badge/Markdown--58a6ff?style=flat-square) | 5h 32m | `██░░░░░░░░░░░░░░░░░░` 10.5% |
-| ![LSL](https://img.shields.io/badge/LSL--58a6ff?style=flat-square) | 1h 43m | `█░░░░░░░░░░░░░░░░░░░` 3.3% |
+| ![JavaScript](https://img.shields.io/badge/JavaScript--f7df1e?style=flat-square) | 2h 3m | `█░░░░░░░░░░░░░░░░░░░` 3.9% |
 
 
 ### 🔥 Editors
 | Name | Time | Usage |
 |------|------|-------|
-| ![VS Code](https://img.shields.io/badge/VS%20Code--58a6ff?style=flat-square) | 52h 54m | `████████████████████` 100.0% |
+| ![VS Code](https://img.shields.io/badge/VS%20Code--58a6ff?style=flat-square) | 52h 41m | `████████████████████` 100.0% |
 
 
 ### 🖥 OS
 | Name | Time | Usage |
 |------|------|-------|
-| ![Linux](https://img.shields.io/badge/Linux--58a6ff?style=flat-square) | 49h 39m | `███████████████████░` 93.8% |
-| ![Windows](https://img.shields.io/badge/Windows--58a6ff?style=flat-square) | 3h 15m | `█░░░░░░░░░░░░░░░░░░░` 6.2% |
+| ![Linux](https://img.shields.io/badge/Linux--58a6ff?style=flat-square) | 49h 21m | `███████████████████░` 93.7% |
+| ![Windows](https://img.shields.io/badge/Windows--58a6ff?style=flat-square) | 3h 20m | `█░░░░░░░░░░░░░░░░░░░` 6.3% |
 
 
 ---
 
-Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Thursday%2C_April_9th_2026%2C_12%3A37%3A51-58a6ff?style=flat-square)</b>
+Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Friday%2C_April_10th_2026%2C_12%3A44%3A17-58a6ff?style=flat-square)</b>
