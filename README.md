@@ -37,36 +37,10 @@ Bio/Links
 # WakaTime
 
 ## ⏱ WakaTime Stats
-> Last 7 Days · **22 hrs 32 mins** · 🌍 America/Chicago
+> Last 7 Days · **undefined** · 🌍 America/Chicago
 
-![Total](https://img.shields.io/badge/Total-22%20hrs%2032%20mins-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-19-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-1-58a6ff?style=flat-square)
-
-## 🏆 Highlights
-- Top Language: **Other** (44.2%)
-
-### 💬 Languages
-| Name | Time | Usage |
-|------|------|-------|
-| ![Other](https://img.shields.io/badge/Other--58a6ff?style=flat-square) | 17h 50m | `█████████░░░░░░░░░░░` 44.2% |
-| ![TypeScript](https://img.shields.io/badge/TypeScript--3178c6?style=flat-square) | 10h 8m | `█████░░░░░░░░░░░░░░░` 25.1% |
-| ![JSON](https://img.shields.io/badge/JSON--58a6ff?style=flat-square) | 6h 1m | `███░░░░░░░░░░░░░░░░░` 14.9% |
-| ![YAML](https://img.shields.io/badge/YAML--58a6ff?style=flat-square) | 1h 59m | `█░░░░░░░░░░░░░░░░░░░` 4.9% |
-| ![Markdown](https://img.shields.io/badge/Markdown--58a6ff?style=flat-square) | 1h 19m | `█░░░░░░░░░░░░░░░░░░░` 3.3% |
-
-
-### 🔥 Editors
-| Name | Time | Usage |
-|------|------|-------|
-| ![VS Code](https://img.shields.io/badge/VS%20Code--58a6ff?style=flat-square) | 40h 23m | `████████████████████` 100.0% |
-
-
-### 🖥 OS
-| Name | Time | Usage |
-|------|------|-------|
-| ![Linux](https://img.shields.io/badge/Linux--58a6ff?style=flat-square) | 40h 3m | `████████████████████` 99.2% |
-| ![Windows](https://img.shields.io/badge/Windows--58a6ff?style=flat-square) | 19m | `░░░░░░░░░░░░░░░░░░░░` 0.8% |
-
+![Total](https://img.shields.io/badge/Total-undefined-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-0-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-0-58a6ff?style=flat-square)
 
 ---
 
-Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Thursday%2C_April_16th_2026%2C_12%3A50%3A58-58a6ff?style=flat-square)</b>
+Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Friday%2C_April_17th_2026%2C_12%3A48%3A59-58a6ff?style=flat-square)</b>
