@@ -10,7 +10,7 @@ jobs:
                   fetch-depth: 0
 
             - name: Create README.md
-              uses: ItzDabbzz/profile-readme@v0.2.2
+              uses: ItzDabbzz/profile-readme@v0.2.4
               with:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
                   username: ItzDabbzz
