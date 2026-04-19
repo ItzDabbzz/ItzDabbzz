@@ -24,23 +24,50 @@ Bio/Links
 
 | | Event | Repo |
 |---|---|---|
+| ![release](https://img.shields.io/badge/release-3fb950?style=flat-square) | 🚀 Published release [`Bug Fixes & Test's`](https://github.com/ItzDabbzz/profile-readme/releases/tag/v0.2.4) in **[ItzDabbzz/profile-readme](https://github.com/ItzDabbzz/profile-readme)** | **[ItzDabbzz/profile-readme](https://github.com/ItzDabbzz/profile-readme)** |
+| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed 0 commits to [`master`](https://github.com/ItzDabbzz/profile-readme/tree/master) in **[ItzDabbzz/profile-readme](https://github.com/ItzDabbzz/profile-readme)** ([`790a0d2`](https://github.com/ItzDabbzz/profile-readme/commit/790a0d2db3a1b42f9c79f02dfac2f5edc94ebf44)) | **[ItzDabbzz/profile-readme](https://github.com/ItzDabbzz/profile-readme)** |
+| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed 0 commits to [`master`](https://github.com/ItzDabbzz/profile-readme/tree/master) in **[ItzDabbzz/profile-readme](https://github.com/ItzDabbzz/profile-readme)** ([`fa4211c`](https://github.com/ItzDabbzz/profile-readme/commit/fa4211c32cf355dddaa54759f4fc6dd39fee96af)) | **[ItzDabbzz/profile-readme](https://github.com/ItzDabbzz/profile-readme)** |
+| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed 0 commits to [`master`](https://github.com/ItzDabbzz/profile-readme/tree/master) in **[ItzDabbzz/profile-readme](https://github.com/ItzDabbzz/profile-readme)** ([`4366d31`](https://github.com/ItzDabbzz/profile-readme/commit/4366d31f6844be4d8d9a80d72d751fb1917e9a64)) | **[ItzDabbzz/profile-readme](https://github.com/ItzDabbzz/profile-readme)** |
+| ![fork](https://img.shields.io/badge/fork-56d364?style=flat-square) | 🍴 Forked **[AngelJumbo/gruvbox-wallpapers](https://github.com/AngelJumbo/gruvbox-wallpapers)** → **[ItzDabbzz/gruvbox-wallpapers](https://github.com/ItzDabbzz/gruvbox-wallpapers)** | **[AngelJumbo/gruvbox-wallpapers](https://github.com/AngelJumbo/gruvbox-wallpapers)** |
 | ![fork](https://img.shields.io/badge/fork-56d364?style=flat-square) | 🍴 Forked **[Parado-xy/seroost](https://github.com/Parado-xy/seroost)** → **[ItzDabbzz/seroost](https://github.com/ItzDabbzz/seroost)** | **[Parado-xy/seroost](https://github.com/Parado-xy/seroost)** |
 | ![issue](https://img.shields.io/badge/issue-e4e669?style=flat-square) | ❗ Labeled issue [#13912](https://github.com/OpenHands/OpenHands/issues/13912) — _[Bug]: VSCode reroutes to Home behind Reverse Proxy_ in **[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)** | **[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)** |
-| ![issue](https://img.shields.io/badge/issue-e4e669?style=flat-square) | ❗ Opened issue [#13912](https://github.com/OpenHands/OpenHands/issues/13912) — _[Bug]: VSCode reroutes to Home behind Reverse Proxy_ in **[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)** | **[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)** |
-| ![star](https://img.shields.io/badge/star-e3b341?style=flat-square) | ⭐ Starred **[clidey/whodb](https://github.com/clidey/whodb)** | **[clidey/whodb](https://github.com/clidey/whodb)** |
-| ![star](https://img.shields.io/badge/star-e3b341?style=flat-square) | ⭐ Starred **[open-webui/open-webui](https://github.com/open-webui/open-webui)** | **[open-webui/open-webui](https://github.com/open-webui/open-webui)** |
-| ![star](https://img.shields.io/badge/star-e3b341?style=flat-square) | ⭐ Starred **[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)** | **[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)** |
-| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed 0 commits to [`main`](https://github.com/ItzDabbzz/ItzDabbzz/tree/main) in **[ItzDabbzz/ItzDabbzz](https://github.com/ItzDabbzz/ItzDabbzz)** ([`2c501f3`](https://github.com/ItzDabbzz/ItzDabbzz/commit/2c501f399abdeb8334676286896cd24c2f8438be)) | **[ItzDabbzz/ItzDabbzz](https://github.com/ItzDabbzz/ItzDabbzz)** |
 
 ---
 
 # WakaTime
 
 ## ⏱ WakaTime Stats
-> Last 7 Days · **undefined** · 🌍 America/Chicago
+> Last 7 Days · **31 hrs 13 mins** · 🌍 America/Chicago
 
-![Total](https://img.shields.io/badge/Total-undefined-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-0-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-0-58a6ff?style=flat-square)
+![Total](https://img.shields.io/badge/Total-31%20hrs%2013%20mins-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-14-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-2-58a6ff?style=flat-square)
+
+## 🏆 Highlights
+- Top Language: **TypeScript** (40.1%)
+
+### 💬 Languages
+| Name | Time | Usage |
+|------|------|-------|
+| ![TypeScript](https://img.shields.io/badge/TypeScript--3178c6?style=flat-square) | 14h 37m | `████████░░░░░░░░░░░░` 40.1% |
+| ![JSON](https://img.shields.io/badge/JSON--58a6ff?style=flat-square) | 7h 42m | `████░░░░░░░░░░░░░░░░` 21.1% |
+| ![Other](https://img.shields.io/badge/Other--58a6ff?style=flat-square) | 5h 14m | `███░░░░░░░░░░░░░░░░░` 14.4% |
+| ![Markdown](https://img.shields.io/badge/Markdown--58a6ff?style=flat-square) | 3h 54m | `██░░░░░░░░░░░░░░░░░░` 10.7% |
+| ![YAML](https://img.shields.io/badge/YAML--58a6ff?style=flat-square) | 2h 24m | `█░░░░░░░░░░░░░░░░░░░` 6.6% |
+
+
+### 🔥 Editors
+| Name | Time | Usage |
+|------|------|-------|
+| ![VS Code](https://img.shields.io/badge/VS%20Code--58a6ff?style=flat-square) | 34h 53m | `███████████████████░` 95.7% |
+| ![Unknown Editor](https://img.shields.io/badge/Unknown%20Editor--58a6ff?style=flat-square) | 1h 33m | `█░░░░░░░░░░░░░░░░░░░` 4.3% |
+
+
+### 🖥 OS
+| Name | Time | Usage |
+|------|------|-------|
+| ![Linux](https://img.shields.io/badge/Linux--58a6ff?style=flat-square) | 36h 20m | `████████████████████` 99.7% |
+| ![Windows](https://img.shields.io/badge/Windows--58a6ff?style=flat-square) | 6m | `░░░░░░░░░░░░░░░░░░░░` 0.3% |
+
 
 ---
 
-Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Sunday%2C_April_19th_2026%2C_12%3A50%3A02-58a6ff?style=flat-square)</b>
+Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Sunday%2C_April_19th_2026%2C_9%3A49%3A09-58a6ff?style=flat-square)</b>
