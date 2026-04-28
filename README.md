@@ -24,49 +24,49 @@ Bio/Links
 
 | | Event | Repo |
 |---|---|---|
+| ![fork](https://img.shields.io/badge/fork-56d364?style=flat-square) | 🍴 Forked **[melihbozkurt10/fivem-dev-plugin](https://github.com/melihbozkurt10/fivem-dev-plugin)** → **[ItzDabbzz/fivem-skills](https://github.com/ItzDabbzz/fivem-skills)** | **[melihbozkurt10/fivem-dev-plugin](https://github.com/melihbozkurt10/fivem-dev-plugin)** |
 | ![create](https://img.shields.io/badge/create-58a6ff?style=flat-square) | 🌿 Created branch [`test-activity`](https://github.com/ItzDabbzz/profile-readme/tree/test-activity) in **[ItzDabbzz/profile-readme](https://github.com/ItzDabbzz/profile-readme)** | **[ItzDabbzz/profile-readme](https://github.com/ItzDabbzz/profile-readme)** |
 | ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/ItzDabbzz/ItzDabbzz/tree/main) in **[ItzDabbzz/ItzDabbzz](https://github.com/ItzDabbzz/ItzDabbzz)** ([`19020e2`](https://github.com/ItzDabbzz/ItzDabbzz/commit/19020e278a2190973f982e140decdb64084ce7a6)) | **[ItzDabbzz/ItzDabbzz](https://github.com/ItzDabbzz/ItzDabbzz)** |
 | ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/ItzDabbzz/gruvbox-wallpapers/tree/main) in **[ItzDabbzz/gruvbox-wallpapers](https://github.com/ItzDabbzz/gruvbox-wallpapers)** ([`6e1121b`](https://github.com/ItzDabbzz/gruvbox-wallpapers/commit/6e1121b42b964080ca0d653fc55a95cf345f1e34)) | **[ItzDabbzz/gruvbox-wallpapers](https://github.com/ItzDabbzz/gruvbox-wallpapers)** |
 | ![release](https://img.shields.io/badge/release-3fb950?style=flat-square) | 🚀 Published release [`Bug Fixes & Test's`](https://github.com/ItzDabbzz/profile-readme/releases/tag/v0.2.4) in **[ItzDabbzz/profile-readme](https://github.com/ItzDabbzz/profile-readme)** | **[ItzDabbzz/profile-readme](https://github.com/ItzDabbzz/profile-readme)** |
 | ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`master`](https://github.com/ItzDabbzz/profile-readme/tree/master) in **[ItzDabbzz/profile-readme](https://github.com/ItzDabbzz/profile-readme)** ([`790a0d2`](https://github.com/ItzDabbzz/profile-readme/commit/790a0d2db3a1b42f9c79f02dfac2f5edc94ebf44)) | **[ItzDabbzz/profile-readme](https://github.com/ItzDabbzz/profile-readme)** |
 | ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`master`](https://github.com/ItzDabbzz/profile-readme/tree/master) in **[ItzDabbzz/profile-readme](https://github.com/ItzDabbzz/profile-readme)** ([`fa4211c`](https://github.com/ItzDabbzz/profile-readme/commit/fa4211c32cf355dddaa54759f4fc6dd39fee96af)) | **[ItzDabbzz/profile-readme](https://github.com/ItzDabbzz/profile-readme)** |
-| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`master`](https://github.com/ItzDabbzz/profile-readme/tree/master) in **[ItzDabbzz/profile-readme](https://github.com/ItzDabbzz/profile-readme)** ([`4366d31`](https://github.com/ItzDabbzz/profile-readme/commit/4366d31f6844be4d8d9a80d72d751fb1917e9a64)) | **[ItzDabbzz/profile-readme](https://github.com/ItzDabbzz/profile-readme)** |
 
 ---
 
 # WakaTime
 
 ## ⏱ WakaTime Stats
-> Last 7 Days · **56 hrs 3 mins** · 🌍 America/Chicago
+> Last 7 Days · **59 hrs 3 mins** · 🌍 America/Chicago
 
-![Total](https://img.shields.io/badge/Total-56%20hrs%203%20mins-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-23-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-1-58a6ff?style=flat-square)
+![Total](https://img.shields.io/badge/Total-59%20hrs%203%20mins-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-22-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-1-58a6ff?style=flat-square)
 
 ## 🏆 Highlights
-- Top Language: **TypeScript** (38.1%)
+- Top Language: **TypeScript** (33.1%)
 
 ### 💬 Languages
 | Name | Time | Usage |
 |------|------|-------|
-| ![TypeScript](https://img.shields.io/badge/TypeScript--3178c6?style=flat-square) | 24h 59m | `████████░░░░░░░░░░░░` 38.1% |
-| ![Other](https://img.shields.io/badge/Other--58a6ff?style=flat-square) | 9h 32m | `███░░░░░░░░░░░░░░░░░` 14.6% |
-| ![JSON](https://img.shields.io/badge/JSON--58a6ff?style=flat-square) | 6h 30m | `██░░░░░░░░░░░░░░░░░░` 9.9% |
-| ![Rust](https://img.shields.io/badge/Rust--dea584?style=flat-square) | 5h 28m | `██░░░░░░░░░░░░░░░░░░` 8.3% |
-| ![YAML](https://img.shields.io/badge/YAML--58a6ff?style=flat-square) | 5h 11m | `██░░░░░░░░░░░░░░░░░░` 7.9% |
+| ![TypeScript](https://img.shields.io/badge/TypeScript--3178c6?style=flat-square) | 23h 28m | `███████░░░░░░░░░░░░░` 33.1% |
+| ![Other](https://img.shields.io/badge/Other--58a6ff?style=flat-square) | 11h 50m | `███░░░░░░░░░░░░░░░░░` 16.7% |
+| ![JSON](https://img.shields.io/badge/JSON--58a6ff?style=flat-square) | 7h 18m | `██░░░░░░░░░░░░░░░░░░` 10.3% |
+| ![Rust](https://img.shields.io/badge/Rust--dea584?style=flat-square) | 6h 56m | `██░░░░░░░░░░░░░░░░░░` 9.8% |
+| ![YAML](https://img.shields.io/badge/YAML--58a6ff?style=flat-square) | 5h 48m | `██░░░░░░░░░░░░░░░░░░` 8.2% |
 
 
 ### 🔥 Editors
 | Name | Time | Usage |
 |------|------|-------|
-| ![VS Code](https://img.shields.io/badge/VS%20Code--58a6ff?style=flat-square) | 65h 36m | `████████████████████` 100.0% |
+| ![VS Code](https://img.shields.io/badge/VS%20Code--58a6ff?style=flat-square) | 70h 53m | `████████████████████` 100.0% |
 
 
 ### 🖥 OS
 | Name | Time | Usage |
 |------|------|-------|
-| ![Linux](https://img.shields.io/badge/Linux--58a6ff?style=flat-square) | 60h 25m | `██████████████████░░` 92.1% |
-| ![Windows](https://img.shields.io/badge/Windows--58a6ff?style=flat-square) | 5h 11m | `██░░░░░░░░░░░░░░░░░░` 7.9% |
+| ![Linux](https://img.shields.io/badge/Linux--58a6ff?style=flat-square) | 60h 19m | `█████████████████░░░` 85.1% |
+| ![Windows](https://img.shields.io/badge/Windows--58a6ff?style=flat-square) | 10h 34m | `███░░░░░░░░░░░░░░░░░` 14.9% |
 
 
 ---
 
-Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Monday%2C_April_27th_2026%2C_12%3A52%3A36-58a6ff?style=flat-square)</b>
+Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Tuesday%2C_April_28th_2026%2C_12%3A54%3A50-58a6ff?style=flat-square)</b>
