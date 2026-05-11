@@ -24,48 +24,48 @@ Bio/Links
 
 | | Event | Repo |
 |---|---|---|
+| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/ItzDabbzz/runpod_vllm_code/tree/main) in **[ItzDabbzz/runpod_vllm_code](https://github.com/ItzDabbzz/runpod_vllm_code)** ([`46c134d`](https://github.com/ItzDabbzz/runpod_vllm_code/commit/46c134dbaeefe1f6907058f995df3687dd639e78)) | **[ItzDabbzz/runpod_vllm_code](https://github.com/ItzDabbzz/runpod_vllm_code)** |
+| ![create](https://img.shields.io/badge/create-58a6ff?style=flat-square) | 🌿 Created branch [`main`](https://github.com/ItzDabbzz/runpod_vllm_code/tree/main) in **[ItzDabbzz/runpod_vllm_code](https://github.com/ItzDabbzz/runpod_vllm_code)** | **[ItzDabbzz/runpod_vllm_code](https://github.com/ItzDabbzz/runpod_vllm_code)** |
 | ![fork](https://img.shields.io/badge/fork-56d364?style=flat-square) | 🍴 Forked **[danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)** → **[ItzDabbzz/LibreChat](https://github.com/ItzDabbzz/LibreChat)** | **[danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)** |
 | ![star](https://img.shields.io/badge/star-e3b341?style=flat-square) | ⭐ Starred **[JuliusBrussee/cavemem](https://github.com/JuliusBrussee/cavemem)** | **[JuliusBrussee/cavemem](https://github.com/JuliusBrussee/cavemem)** |
 | ![star](https://img.shields.io/badge/star-e3b341?style=flat-square) | ⭐ Starred **[45Drives/cockpit-navigator](https://github.com/45Drives/cockpit-navigator)** | **[45Drives/cockpit-navigator](https://github.com/45Drives/cockpit-navigator)** |
 | ![fork](https://img.shields.io/badge/fork-56d364?style=flat-square) | 🍴 Forked **[melihbozkurt10/fivem-dev-plugin](https://github.com/melihbozkurt10/fivem-dev-plugin)** → **[ItzDabbzz/fivem-skills](https://github.com/ItzDabbzz/fivem-skills)** | **[melihbozkurt10/fivem-dev-plugin](https://github.com/melihbozkurt10/fivem-dev-plugin)** |
 | ![create](https://img.shields.io/badge/create-58a6ff?style=flat-square) | 🌿 Created branch [`test-activity`](https://github.com/ItzDabbzz/profile-readme/tree/test-activity) in **[ItzDabbzz/profile-readme](https://github.com/ItzDabbzz/profile-readme)** | **[ItzDabbzz/profile-readme](https://github.com/ItzDabbzz/profile-readme)** |
-| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/ItzDabbzz/ItzDabbzz/tree/main) in **[ItzDabbzz/ItzDabbzz](https://github.com/ItzDabbzz/ItzDabbzz)** ([`19020e2`](https://github.com/ItzDabbzz/ItzDabbzz/commit/19020e278a2190973f982e140decdb64084ce7a6)) | **[ItzDabbzz/ItzDabbzz](https://github.com/ItzDabbzz/ItzDabbzz)** |
-| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/ItzDabbzz/gruvbox-wallpapers/tree/main) in **[ItzDabbzz/gruvbox-wallpapers](https://github.com/ItzDabbzz/gruvbox-wallpapers)** ([`6e1121b`](https://github.com/ItzDabbzz/gruvbox-wallpapers/commit/6e1121b42b964080ca0d653fc55a95cf345f1e34)) | **[ItzDabbzz/gruvbox-wallpapers](https://github.com/ItzDabbzz/gruvbox-wallpapers)** |
 
 ---
 
 # WakaTime
 
 ## ⏱ WakaTime Stats
-> Last 7 Days · **36 hrs 10 mins** · 🌍 America/Chicago
+> Last 7 Days · **30 hrs 48 mins** · 🌍 America/Chicago
 
-![Total](https://img.shields.io/badge/Total-36%20hrs%2010%20mins-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-19-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-1-58a6ff?style=flat-square)
+![Total](https://img.shields.io/badge/Total-30%20hrs%2048%20mins-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-19-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-1-58a6ff?style=flat-square)
 
 ## 🏆 Highlights
-- Top Language: **Lua** (34.9%)
+- Top Language: **Lua** (39.8%)
 
 ### 💬 Languages
 | Name | Time | Usage |
 |------|------|-------|
-| ![Lua](https://img.shields.io/badge/Lua--58a6ff?style=flat-square) | 12h 46m | `███████░░░░░░░░░░░░░` 34.9% |
-| ![Markdown](https://img.shields.io/badge/Markdown--58a6ff?style=flat-square) | 7h 27m | `████░░░░░░░░░░░░░░░░` 20.4% |
-| ![JSON](https://img.shields.io/badge/JSON--58a6ff?style=flat-square) | 4h 40m | `███░░░░░░░░░░░░░░░░░` 12.8% |
-| ![TypeScript](https://img.shields.io/badge/TypeScript--3178c6?style=flat-square) | 4h 38m | `███░░░░░░░░░░░░░░░░░` 12.7% |
-| ![Bash](https://img.shields.io/badge/Bash--58a6ff?style=flat-square) | 2h 18m | `█░░░░░░░░░░░░░░░░░░░` 6.3% |
+| ![Lua](https://img.shields.io/badge/Lua--58a6ff?style=flat-square) | 12h 24m | `████████░░░░░░░░░░░░` 39.8% |
+| ![JSON](https://img.shields.io/badge/JSON--58a6ff?style=flat-square) | 4h 40m | `███░░░░░░░░░░░░░░░░░` 15.0% |
+| ![Markdown](https://img.shields.io/badge/Markdown--58a6ff?style=flat-square) | 3h 59m | `███░░░░░░░░░░░░░░░░░` 12.8% |
+| ![TypeScript](https://img.shields.io/badge/TypeScript--3178c6?style=flat-square) | 3h 35m | `██░░░░░░░░░░░░░░░░░░` 11.5% |
+| ![Bash](https://img.shields.io/badge/Bash--58a6ff?style=flat-square) | 2h 13m | `█░░░░░░░░░░░░░░░░░░░` 7.1% |
 
 
 ### 🔥 Editors
 | Name | Time | Usage |
 |------|------|-------|
-| ![VS Code](https://img.shields.io/badge/VS%20Code--58a6ff?style=flat-square) | 36h 35m | `████████████████████` 100.0% |
+| ![VS Code](https://img.shields.io/badge/VS%20Code--58a6ff?style=flat-square) | 31h 13m | `████████████████████` 100.0% |
 
 
 ### 🖥 OS
 | Name | Time | Usage |
 |------|------|-------|
-| ![Windows](https://img.shields.io/badge/Windows--58a6ff?style=flat-square) | 36h 35m | `████████████████████` 100.0% |
+| ![Windows](https://img.shields.io/badge/Windows--58a6ff?style=flat-square) | 31h 13m | `████████████████████` 100.0% |
 
 
 ---
 
-Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Sunday%2C_May_10th_2026%2C_12%3A58%3A53-58a6ff?style=flat-square)</b>
+Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Monday%2C_May_11th_2026%2C_12%3A59%3A13-58a6ff?style=flat-square)</b>
