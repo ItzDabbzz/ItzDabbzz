@@ -24,49 +24,49 @@ Bio/Links
 
 | | Event | Repo |
 |---|---|---|
+| ![delete](https://img.shields.io/badge/delete-f85149?style=flat-square) | 🗑️ Deleted tag `v0.1.3` in **[ItzDabbzz/seroost](https://github.com/ItzDabbzz/seroost)** | **[ItzDabbzz/seroost](https://github.com/ItzDabbzz/seroost)** |
+| ![delete](https://img.shields.io/badge/delete-f85149?style=flat-square) | 🗑️ Deleted tag `0.1.3` in **[ItzDabbzz/seroost](https://github.com/ItzDabbzz/seroost)** | **[ItzDabbzz/seroost](https://github.com/ItzDabbzz/seroost)** |
+| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`master`](https://github.com/ItzDabbzz/seroost/tree/master) in **[ItzDabbzz/seroost](https://github.com/ItzDabbzz/seroost)** ([`64e6704`](https://github.com/ItzDabbzz/seroost/commit/64e67040b5c854f113cf0144e1b776535215b8d5)) | **[ItzDabbzz/seroost](https://github.com/ItzDabbzz/seroost)** |
+| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`master`](https://github.com/ItzDabbzz/seroost/tree/master) in **[ItzDabbzz/seroost](https://github.com/ItzDabbzz/seroost)** ([`a64eda2`](https://github.com/ItzDabbzz/seroost/commit/a64eda293ef318604810e3e27563019128690e1e)) | **[ItzDabbzz/seroost](https://github.com/ItzDabbzz/seroost)** |
+| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`master`](https://github.com/ItzDabbzz/seroost/tree/master) in **[ItzDabbzz/seroost](https://github.com/ItzDabbzz/seroost)** ([`d3e0d3a`](https://github.com/ItzDabbzz/seroost/commit/d3e0d3a755efa6c113ff644506be546c9d266e23)) | **[ItzDabbzz/seroost](https://github.com/ItzDabbzz/seroost)** |
 | ![star](https://img.shields.io/badge/star-e3b341?style=flat-square) | ⭐ Starred **[robbyczgw-cla/hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus)** | **[robbyczgw-cla/hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus)** |
 | ![star](https://img.shields.io/badge/star-e3b341?style=flat-square) | ⭐ Starred **[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** | **[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** |
-| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/ItzDabbzz/runpod_vllm_code/tree/main) in **[ItzDabbzz/runpod_vllm_code](https://github.com/ItzDabbzz/runpod_vllm_code)** ([`46c134d`](https://github.com/ItzDabbzz/runpod_vllm_code/commit/46c134dbaeefe1f6907058f995df3687dd639e78)) | **[ItzDabbzz/runpod_vllm_code](https://github.com/ItzDabbzz/runpod_vllm_code)** |
-| ![create](https://img.shields.io/badge/create-58a6ff?style=flat-square) | 🌿 Created branch [`main`](https://github.com/ItzDabbzz/runpod_vllm_code/tree/main) in **[ItzDabbzz/runpod_vllm_code](https://github.com/ItzDabbzz/runpod_vllm_code)** | **[ItzDabbzz/runpod_vllm_code](https://github.com/ItzDabbzz/runpod_vllm_code)** |
-| ![fork](https://img.shields.io/badge/fork-56d364?style=flat-square) | 🍴 Forked **[danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)** → **[ItzDabbzz/LibreChat](https://github.com/ItzDabbzz/LibreChat)** | **[danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)** |
-| ![star](https://img.shields.io/badge/star-e3b341?style=flat-square) | ⭐ Starred **[JuliusBrussee/cavemem](https://github.com/JuliusBrussee/cavemem)** | **[JuliusBrussee/cavemem](https://github.com/JuliusBrussee/cavemem)** |
-| ![star](https://img.shields.io/badge/star-e3b341?style=flat-square) | ⭐ Starred **[45Drives/cockpit-navigator](https://github.com/45Drives/cockpit-navigator)** | **[45Drives/cockpit-navigator](https://github.com/45Drives/cockpit-navigator)** |
 
 ---
 
 # WakaTime
 
 ## ⏱ WakaTime Stats
-> Last 7 Days · **38 hrs 55 mins** · 🌍 America/Chicago
+> Last 7 Days · **37 hrs 55 mins** · 🌍 America/Chicago
 
-![Total](https://img.shields.io/badge/Total-38%20hrs%2055%20mins-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-19-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-1-58a6ff?style=flat-square)
+![Total](https://img.shields.io/badge/Total-37%20hrs%2055%20mins-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-17-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-1-58a6ff?style=flat-square)
 
 ## 🏆 Highlights
-- Top Language: **Markdown** (28.8%)
+- Top Language: **Markdown** (32.8%)
 
 ### 💬 Languages
 | Name | Time | Usage |
 |------|------|-------|
-| ![Markdown](https://img.shields.io/badge/Markdown--58a6ff?style=flat-square) | 11h 22m | `██████░░░░░░░░░░░░░░` 28.8% |
-| ![TypeScript](https://img.shields.io/badge/TypeScript--3178c6?style=flat-square) | 10h 57m | `██████░░░░░░░░░░░░░░` 27.8% |
-| ![JSON](https://img.shields.io/badge/JSON--58a6ff?style=flat-square) | 5h 32m | `███░░░░░░░░░░░░░░░░░` 14.0% |
-| ![Bash](https://img.shields.io/badge/Bash--58a6ff?style=flat-square) | 3h 10m | `██░░░░░░░░░░░░░░░░░░` 8.1% |
-| ![Lua](https://img.shields.io/badge/Lua--58a6ff?style=flat-square) | 2h 23m | `█░░░░░░░░░░░░░░░░░░░` 6.0% |
+| ![Markdown](https://img.shields.io/badge/Markdown--58a6ff?style=flat-square) | 12h 38m | `███████░░░░░░░░░░░░░` 32.8% |
+| ![TypeScript](https://img.shields.io/badge/TypeScript--3178c6?style=flat-square) | 10h 56m | `██████░░░░░░░░░░░░░░` 28.4% |
+| ![JSON](https://img.shields.io/badge/JSON--58a6ff?style=flat-square) | 5h 20m | `███░░░░░░░░░░░░░░░░░` 13.9% |
+| ![Bash](https://img.shields.io/badge/Bash--58a6ff?style=flat-square) | 2h 33m | `█░░░░░░░░░░░░░░░░░░░` 6.7% |
+| ![YAML](https://img.shields.io/badge/YAML--58a6ff?style=flat-square) | 1h 54m | `█░░░░░░░░░░░░░░░░░░░` 5.0% |
 
 
 ### 🔥 Editors
 | Name | Time | Usage |
 |------|------|-------|
-| ![VS Code](https://img.shields.io/badge/VS%20Code--58a6ff?style=flat-square) | 39h 28m | `████████████████████` 100.0% |
+| ![VS Code](https://img.shields.io/badge/VS%20Code--58a6ff?style=flat-square) | 38h 29m | `████████████████████` 100.0% |
 
 
 ### 🖥 OS
 | Name | Time | Usage |
 |------|------|-------|
-| ![Windows](https://img.shields.io/badge/Windows--58a6ff?style=flat-square) | 37h 8m | `███████████████████░` 94.1% |
-| ![Linux](https://img.shields.io/badge/Linux--58a6ff?style=flat-square) | 2h 19m | `█░░░░░░░░░░░░░░░░░░░` 5.9% |
+| ![Windows](https://img.shields.io/badge/Windows--58a6ff?style=flat-square) | 36h 9m | `███████████████████░` 93.9% |
+| ![Linux](https://img.shields.io/badge/Linux--58a6ff?style=flat-square) | 2h 19m | `█░░░░░░░░░░░░░░░░░░░` 6.1% |
 
 
 ---
 
-Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Friday%2C_May_15th_2026%2C_12%3A57%3A25-58a6ff?style=flat-square)</b>
+Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Saturday%2C_May_16th_2026%2C_12%3A54%3A17-58a6ff?style=flat-square)</b>
