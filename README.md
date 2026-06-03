@@ -24,48 +24,48 @@ Bio/Links
 
 | | Event | Repo |
 |---|---|---|
+| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/We-The-People-RP/notes/tree/main) in **[We-The-People-RP/notes](https://github.com/We-The-People-RP/notes)** ([`ba955a2`](https://github.com/We-The-People-RP/notes/commit/ba955a24992442dd3d6b59d0371fd9a7608e724f)) | **[We-The-People-RP/notes](https://github.com/We-The-People-RP/notes)** |
+| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/We-The-People-RP/notes/tree/main) in **[We-The-People-RP/notes](https://github.com/We-The-People-RP/notes)** ([`8a09a49`](https://github.com/We-The-People-RP/notes/commit/8a09a4920f95c4ba40828b7da9c04b5cd5773624)) | **[We-The-People-RP/notes](https://github.com/We-The-People-RP/notes)** |
+| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/We-The-People-RP/notes/tree/main) in **[We-The-People-RP/notes](https://github.com/We-The-People-RP/notes)** ([`ec7b4ac`](https://github.com/We-The-People-RP/notes/commit/ec7b4aca69e177a2dfdf41a398f1f6303d02bb44)) | **[We-The-People-RP/notes](https://github.com/We-The-People-RP/notes)** |
+| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/We-The-People-RP/notes/tree/main) in **[We-The-People-RP/notes](https://github.com/We-The-People-RP/notes)** ([`d422675`](https://github.com/We-The-People-RP/notes/commit/d42267515f857fe73e21faab68aef47efcb3352d)) | **[We-The-People-RP/notes](https://github.com/We-The-People-RP/notes)** |
+| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/We-The-People-RP/notes/tree/main) in **[We-The-People-RP/notes](https://github.com/We-The-People-RP/notes)** ([`661e86a`](https://github.com/We-The-People-RP/notes/commit/661e86ac2979fd9264b34a6e3ce719b4dd66f0bd)) | **[We-The-People-RP/notes](https://github.com/We-The-People-RP/notes)** |
 | ![create](https://img.shields.io/badge/create-58a6ff?style=flat-square) | 🌿 Created branch [`main`](https://github.com/ItzDabbzz/myhm_photos/tree/main) in **[ItzDabbzz/myhm_photos](https://github.com/ItzDabbzz/myhm_photos)** | **[ItzDabbzz/myhm_photos](https://github.com/ItzDabbzz/myhm_photos)** |
 | ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`master`](https://github.com/Sanctum-Roleplay/documents/tree/master) in **[Sanctum-Roleplay/documents](https://github.com/Sanctum-Roleplay/documents)** ([`d05c123`](https://github.com/Sanctum-Roleplay/documents/commit/d05c1231f968c8d521be208d796a43ac6cb57ed3)) | **[Sanctum-Roleplay/documents](https://github.com/Sanctum-Roleplay/documents)** |
-| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`master`](https://github.com/Sanctum-Roleplay/documents/tree/master) in **[Sanctum-Roleplay/documents](https://github.com/Sanctum-Roleplay/documents)** ([`0adc9c9`](https://github.com/Sanctum-Roleplay/documents/commit/0adc9c92351ca73478bf1b45883aa508c53fda7c)) | **[Sanctum-Roleplay/documents](https://github.com/Sanctum-Roleplay/documents)** |
-| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`master`](https://github.com/Sanctum-Roleplay/documents/tree/master) in **[Sanctum-Roleplay/documents](https://github.com/Sanctum-Roleplay/documents)** ([`2e3da8d`](https://github.com/Sanctum-Roleplay/documents/commit/2e3da8dfcd7a08e8111b267b0f93be7952af8306)) | **[Sanctum-Roleplay/documents](https://github.com/Sanctum-Roleplay/documents)** |
-| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`master`](https://github.com/Sanctum-Roleplay/documents/tree/master) in **[Sanctum-Roleplay/documents](https://github.com/Sanctum-Roleplay/documents)** ([`5973a8b`](https://github.com/Sanctum-Roleplay/documents/commit/5973a8b9de63f087f86add82d16f481f946d63cd)) | **[Sanctum-Roleplay/documents](https://github.com/Sanctum-Roleplay/documents)** |
-| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`master`](https://github.com/Sanctum-Roleplay/documents/tree/master) in **[Sanctum-Roleplay/documents](https://github.com/Sanctum-Roleplay/documents)** ([`7ef511e`](https://github.com/Sanctum-Roleplay/documents/commit/7ef511e4a920841de701a2187a3c40a86c917293)) | **[Sanctum-Roleplay/documents](https://github.com/Sanctum-Roleplay/documents)** |
-| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`master`](https://github.com/Sanctum-Roleplay/documents/tree/master) in **[Sanctum-Roleplay/documents](https://github.com/Sanctum-Roleplay/documents)** ([`0709f08`](https://github.com/Sanctum-Roleplay/documents/commit/0709f08a20d8805629093199e4f29547f782060b)) | **[Sanctum-Roleplay/documents](https://github.com/Sanctum-Roleplay/documents)** |
 
 ---
 
 # WakaTime
 
 ## ⏱ WakaTime Stats
-> Last 7 Days · **36 hrs 3 mins** · 🌍 America/Chicago
+> Last 7 Days · **28 hrs 47 mins** · 🌍 America/Chicago
 
-![Total](https://img.shields.io/badge/Total-36%20hrs%203%20mins-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-16-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-1-58a6ff?style=flat-square)
+![Total](https://img.shields.io/badge/Total-28%20hrs%2047%20mins-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-14-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-1-58a6ff?style=flat-square)
 
 ## 🏆 Highlights
-- Top Language: **TypeScript** (28.3%)
+- Top Language: **TypeScript** (34.8%)
 
 ### 💬 Languages
 | Name | Time | Usage |
 |------|------|-------|
-| ![TypeScript](https://img.shields.io/badge/TypeScript--3178c6?style=flat-square) | 10h 12m | `██████░░░░░░░░░░░░░░` 28.3% |
-| ![Markdown](https://img.shields.io/badge/Markdown--58a6ff?style=flat-square) | 8h 41m | `█████░░░░░░░░░░░░░░░` 24.1% |
-| ![Lua](https://img.shields.io/badge/Lua--58a6ff?style=flat-square) | 5h 21m | `███░░░░░░░░░░░░░░░░░` 14.9% |
-| ![YAML](https://img.shields.io/badge/YAML--58a6ff?style=flat-square) | 4h 6m | `██░░░░░░░░░░░░░░░░░░` 11.4% |
-| ![JSON](https://img.shields.io/badge/JSON--58a6ff?style=flat-square) | 3h 40m | `██░░░░░░░░░░░░░░░░░░` 10.2% |
+| ![TypeScript](https://img.shields.io/badge/TypeScript--3178c6?style=flat-square) | 10h | `███████░░░░░░░░░░░░░` 34.8% |
+| ![Markdown](https://img.shields.io/badge/Markdown--58a6ff?style=flat-square) | 5h 12m | `████░░░░░░░░░░░░░░░░` 18.1% |
+| ![YAML](https://img.shields.io/badge/YAML--58a6ff?style=flat-square) | 4h 6m | `███░░░░░░░░░░░░░░░░░` 14.3% |
+| ![Lua](https://img.shields.io/badge/Lua--58a6ff?style=flat-square) | 3h 56m | `███░░░░░░░░░░░░░░░░░` 13.7% |
+| ![JSON](https://img.shields.io/badge/JSON--58a6ff?style=flat-square) | 2h 49m | `██░░░░░░░░░░░░░░░░░░` 9.8% |
 
 
 ### 🔥 Editors
 | Name | Time | Usage |
 |------|------|-------|
-| ![VS Code](https://img.shields.io/badge/VS%20Code--58a6ff?style=flat-square) | 36h 3m | `████████████████████` 100.0% |
+| ![VS Code](https://img.shields.io/badge/VS%20Code--58a6ff?style=flat-square) | 28h 47m | `████████████████████` 100.0% |
 
 
 ### 🖥 OS
 | Name | Time | Usage |
 |------|------|-------|
-| ![Windows](https://img.shields.io/badge/Windows--58a6ff?style=flat-square) | 36h 3m | `████████████████████` 100.0% |
+| ![Windows](https://img.shields.io/badge/Windows--58a6ff?style=flat-square) | 28h 47m | `████████████████████` 100.0% |
 
 
 ---
 
-Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Tuesday%2C_June_2nd_2026%2C_1%3A09%3A13-58a6ff?style=flat-square)</b>
+Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Wednesday%2C_June_3rd_2026%2C_1%3A15%3A16-58a6ff?style=flat-square)</b>
