@@ -37,35 +37,35 @@ Bio/Links
 # WakaTime
 
 ## ⏱ WakaTime Stats
-> Last 7 Days · **8 hrs 45 mins** · 🌍 America/Chicago
+> Last 7 Days · **1 hr 57 mins** · 🌍 America/Chicago
 
-![Total](https://img.shields.io/badge/Total-8%20hrs%2045%20mins-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-8-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-1-58a6ff?style=flat-square)
+![Total](https://img.shields.io/badge/Total-1%20hr%2057%20mins-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-5-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-1-58a6ff?style=flat-square)
 
 ## 🏆 Highlights
-- Top Language: **Lua** (45.1%)
+- Top Language: **Lua** (70.0%)
 
 ### 💬 Languages
 | Name | Time | Usage |
 |------|------|-------|
-| ![Lua](https://img.shields.io/badge/Lua--58a6ff?style=flat-square) | 3h 56m | `█████████░░░░░░░░░░░` 45.1% |
-| ![Markdown](https://img.shields.io/badge/Markdown--58a6ff?style=flat-square) | 2h 37m | `██████░░░░░░░░░░░░░░` 30.0% |
-| ![Bash](https://img.shields.io/badge/Bash--58a6ff?style=flat-square) | 1h 8m | `███░░░░░░░░░░░░░░░░░` 13.1% |
-| ![TypeScript](https://img.shields.io/badge/TypeScript--3178c6?style=flat-square) | 29m | `█░░░░░░░░░░░░░░░░░░░` 5.7% |
-| ![YAML](https://img.shields.io/badge/YAML--58a6ff?style=flat-square) | 21m | `█░░░░░░░░░░░░░░░░░░░` 4.1% |
+| ![Lua](https://img.shields.io/badge/Lua--58a6ff?style=flat-square) | 1h 22m | `██████████████░░░░░░` 70.0% |
+| ![TypeScript](https://img.shields.io/badge/TypeScript--3178c6?style=flat-square) | 29m | `█████░░░░░░░░░░░░░░░` 25.3% |
+| ![Bash](https://img.shields.io/badge/Bash--58a6ff?style=flat-square) | 4m | `█░░░░░░░░░░░░░░░░░░░` 4.2% |
+| ![HTML](https://img.shields.io/badge/HTML--58a6ff?style=flat-square) | 0m | `░░░░░░░░░░░░░░░░░░░░` 0.4% |
+| ![JavaScript](https://img.shields.io/badge/JavaScript--f7df1e?style=flat-square) | 0m | `░░░░░░░░░░░░░░░░░░░░` 0.2% |
 
 
 ### 🔥 Editors
 | Name | Time | Usage |
 |------|------|-------|
-| ![VS Code](https://img.shields.io/badge/VS%20Code--58a6ff?style=flat-square) | 8h 45m | `████████████████████` 100.0% |
+| ![VS Code](https://img.shields.io/badge/VS%20Code--58a6ff?style=flat-square) | 1h 57m | `████████████████████` 100.0% |
 
 
 ### 🖥 OS
 | Name | Time | Usage |
 |------|------|-------|
-| ![Windows](https://img.shields.io/badge/Windows--58a6ff?style=flat-square) | 8h 45m | `████████████████████` 100.0% |
+| ![Windows](https://img.shields.io/badge/Windows--58a6ff?style=flat-square) | 1h 57m | `████████████████████` 100.0% |
 
 
 ---
 
-Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Saturday%2C_June_6th_2026%2C_1%3A02%3A22-58a6ff?style=flat-square)</b>
+Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Sunday%2C_June_7th_2026%2C_1%3A09%3A11-58a6ff?style=flat-square)</b>
