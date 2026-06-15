@@ -43,4 +43,4 @@ Bio/Links
 
 ---
 
-Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Sunday%2C_June_14th_2026%2C_1%3A11%3A22-58a6ff?style=flat-square)</b>
+Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Monday%2C_June_15th_2026%2C_1%3A13%3A57-58a6ff?style=flat-square)</b>
