@@ -36,35 +36,10 @@ Bio/Links
 # WakaTime
 
 ## ⏱ WakaTime Stats
-> Last 7 Days · **2 hrs 20 mins** · 🌍 America/Chicago
+> Last 7 Days · **undefined** · 🌍 America/Chicago
 
-![Total](https://img.shields.io/badge/Total-2%20hrs%2020%20mins-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-7-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-1-58a6ff?style=flat-square)
-
-## 🏆 Highlights
-- Top Language: **Markdown** (34.6%)
-
-### 💬 Languages
-| Name | Time | Usage |
-|------|------|-------|
-| ![Markdown](https://img.shields.io/badge/Markdown--58a6ff?style=flat-square) | 48m | `███████░░░░░░░░░░░░░` 34.6% |
-| ![JavaScript](https://img.shields.io/badge/JavaScript--f7df1e?style=flat-square) | 27m | `████░░░░░░░░░░░░░░░░` 19.4% |
-| ![HTML](https://img.shields.io/badge/HTML--58a6ff?style=flat-square) | 25m | `████░░░░░░░░░░░░░░░░` 18.5% |
-| ![Caddyfile](https://img.shields.io/badge/Caddyfile--58a6ff?style=flat-square) | 17m | `██░░░░░░░░░░░░░░░░░░` 12.2% |
-| ![CSS](https://img.shields.io/badge/CSS--58a6ff?style=flat-square) | 11m | `██░░░░░░░░░░░░░░░░░░` 7.9% |
-
-
-### 🔥 Editors
-| Name | Time | Usage |
-|------|------|-------|
-| ![VS Code](https://img.shields.io/badge/VS%20Code--58a6ff?style=flat-square) | 2h 20m | `████████████████████` 100.0% |
-
-
-### 🖥 OS
-| Name | Time | Usage |
-|------|------|-------|
-| ![Windows](https://img.shields.io/badge/Windows--58a6ff?style=flat-square) | 2h 20m | `████████████████████` 100.0% |
-
+![Total](https://img.shields.io/badge/Total-undefined-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-0-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-0-58a6ff?style=flat-square)
 
 ---
 
-Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Friday%2C_June_19th_2026%2C_1%3A16%3A15-58a6ff?style=flat-square)</b>
+Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Saturday%2C_June_20th_2026%2C_1%3A05%3A45-58a6ff?style=flat-square)</b>
