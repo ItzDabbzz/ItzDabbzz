@@ -25,46 +25,41 @@ Bio/Links
 | | Event | Repo |
 |---|---|---|
 | ![create](https://img.shields.io/badge/create-58a6ff?style=flat-square) | 🌿 Created branch [`main`](https://github.com/ItzDabbzz/lua5.4_info/tree/main) in **[ItzDabbzz/lua5.4_info](https://github.com/ItzDabbzz/lua5.4_info)** | **[ItzDabbzz/lua5.4_info](https://github.com/ItzDabbzz/lua5.4_info)** |
-| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/We-The-People-RP/notes/tree/main) in **[We-The-People-RP/notes](https://github.com/We-The-People-RP/notes)** ([`ba955a2`](https://github.com/We-The-People-RP/notes/commit/ba955a24992442dd3d6b59d0371fd9a7608e724f)) | **[We-The-People-RP/notes](https://github.com/We-The-People-RP/notes)** |
-| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/We-The-People-RP/notes/tree/main) in **[We-The-People-RP/notes](https://github.com/We-The-People-RP/notes)** ([`8a09a49`](https://github.com/We-The-People-RP/notes/commit/8a09a4920f95c4ba40828b7da9c04b5cd5773624)) | **[We-The-People-RP/notes](https://github.com/We-The-People-RP/notes)** |
-| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/We-The-People-RP/notes/tree/main) in **[We-The-People-RP/notes](https://github.com/We-The-People-RP/notes)** ([`ec7b4ac`](https://github.com/We-The-People-RP/notes/commit/ec7b4aca69e177a2dfdf41a398f1f6303d02bb44)) | **[We-The-People-RP/notes](https://github.com/We-The-People-RP/notes)** |
-| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/We-The-People-RP/notes/tree/main) in **[We-The-People-RP/notes](https://github.com/We-The-People-RP/notes)** ([`d422675`](https://github.com/We-The-People-RP/notes/commit/d42267515f857fe73e21faab68aef47efcb3352d)) | **[We-The-People-RP/notes](https://github.com/We-The-People-RP/notes)** |
-| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/We-The-People-RP/notes/tree/main) in **[We-The-People-RP/notes](https://github.com/We-The-People-RP/notes)** ([`661e86a`](https://github.com/We-The-People-RP/notes/commit/661e86ac2979fd9264b34a6e3ce719b4dd66f0bd)) | **[We-The-People-RP/notes](https://github.com/We-The-People-RP/notes)** |
 
 ---
 
 # WakaTime
 
 ## ⏱ WakaTime Stats
-> Last 7 Days · **4 hrs 17 mins** · 🌍 America/Chicago
+> Last 7 Days · **1 hr 40 mins** · 🌍 America/Chicago
 
-![Total](https://img.shields.io/badge/Total-4%20hrs%2017%20mins-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-7-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-1-58a6ff?style=flat-square)
+![Total](https://img.shields.io/badge/Total-1%20hr%2040%20mins-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-6-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-1-58a6ff?style=flat-square)
 
 ## 🏆 Highlights
-- Top Language: **Lua** (79.8%)
+- Top Language: **Lua** (66.2%)
 
 ### 💬 Languages
 | Name | Time | Usage |
 |------|------|-------|
-| ![Lua](https://img.shields.io/badge/Lua--58a6ff?style=flat-square) | 3h 25m | `████████████████░░░░` 79.8% |
-| ![TypeScript](https://img.shields.io/badge/TypeScript--3178c6?style=flat-square) | 18m | `█░░░░░░░░░░░░░░░░░░░` 7.1% |
-| ![JavaScript](https://img.shields.io/badge/JavaScript--f7df1e?style=flat-square) | 17m | `█░░░░░░░░░░░░░░░░░░░` 7.0% |
-| ![YAML](https://img.shields.io/badge/YAML--58a6ff?style=flat-square) | 9m | `█░░░░░░░░░░░░░░░░░░░` 3.8% |
-| ![Bash](https://img.shields.io/badge/Bash--58a6ff?style=flat-square) | 5m | `░░░░░░░░░░░░░░░░░░░░` 2.1% |
+| ![Lua](https://img.shields.io/badge/Lua--58a6ff?style=flat-square) | 1h 6m | `█████████████░░░░░░░` 66.2% |
+| ![TypeScript](https://img.shields.io/badge/TypeScript--3178c6?style=flat-square) | 18m | `████░░░░░░░░░░░░░░░░` 18.1% |
+| ![YAML](https://img.shields.io/badge/YAML--58a6ff?style=flat-square) | 9m | `██░░░░░░░░░░░░░░░░░░` 9.7% |
+| ![Bash](https://img.shields.io/badge/Bash--58a6ff?style=flat-square) | 5m | `█░░░░░░░░░░░░░░░░░░░` 5.5% |
+| ![Markdown](https://img.shields.io/badge/Markdown--58a6ff?style=flat-square) | 0m | `░░░░░░░░░░░░░░░░░░░░` 0.5% |
 
 
 ### 🔥 Editors
 | Name | Time | Usage |
 |------|------|-------|
-| ![VS Code](https://img.shields.io/badge/VS%20Code--58a6ff?style=flat-square) | 4h 17m | `████████████████████` 100.0% |
+| ![VS Code](https://img.shields.io/badge/VS%20Code--58a6ff?style=flat-square) | 1h 40m | `████████████████████` 100.0% |
 
 
 ### 🖥 OS
 | Name | Time | Usage |
 |------|------|-------|
-| ![Windows](https://img.shields.io/badge/Windows--58a6ff?style=flat-square) | 4h 17m | `████████████████████` 100.0% |
+| ![Windows](https://img.shields.io/badge/Windows--58a6ff?style=flat-square) | 1h 40m | `████████████████████` 100.0% |
 
 
 ---
 
-Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Thursday%2C_July_2nd_2026%2C_1%3A02%3A56-58a6ff?style=flat-square)</b>
+Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Friday%2C_July_3rd_2026%2C_3%3A37%3A45-58a6ff?style=flat-square)</b>
