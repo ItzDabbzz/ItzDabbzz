@@ -31,10 +31,10 @@ Bio/Links
 # WakaTime
 
 ## ⏱ WakaTime Stats
-> Last 7 Days · **0 secs** · 🌍 America/Chicago
+> Last 7 Days · **undefined** · 🌍 America/Chicago
 
-![Total](https://img.shields.io/badge/Total-0%20secs-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-0-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-0-58a6ff?style=flat-square)
+![Total](https://img.shields.io/badge/Total-undefined-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-0-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-0-58a6ff?style=flat-square)
 
 ---
 
-Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Sunday%2C_July_5th_2026%2C_3%3A48%3A57-58a6ff?style=flat-square)</b>
+Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Monday%2C_July_6th_2026%2C_3%3A56%3A17-58a6ff?style=flat-square)</b>
