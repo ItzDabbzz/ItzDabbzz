@@ -24,7 +24,8 @@ Bio/Links
 
 | | Event | Repo |
 |---|---|---|
-| ![fork](https://img.shields.io/badge/fork-56d364?style=flat-square) | 🍴 Forked **[TheOrderFivem/community_bridge](https://github.com/TheOrderFivem/community_bridge)** → **[We-The-People-RP/wtp-bridge](https://github.com/We-The-People-RP/wtp-bridge)** | **[TheOrderFivem/community_bridge](https://github.com/TheOrderFivem/community_bridge)** |
+| ![create](https://img.shields.io/badge/create-58a6ff?style=flat-square) | 🌿 Created branch [`feat/callback-v2`](https://github.com/We-The-People-RP/community_bridge/tree/feat%2Fcallback-v2) in **[We-The-People-RP/community_bridge](https://github.com/We-The-People-RP/community_bridge)** | **[We-The-People-RP/community_bridge](https://github.com/We-The-People-RP/community_bridge)** |
+| ![fork](https://img.shields.io/badge/fork-56d364?style=flat-square) | 🍴 Forked **[TheOrderFivem/community_bridge](https://github.com/TheOrderFivem/community_bridge)** → **[We-The-People-RP/community_bridge](https://github.com/We-The-People-RP/community_bridge)** | **[TheOrderFivem/community_bridge](https://github.com/TheOrderFivem/community_bridge)** |
 | ![create](https://img.shields.io/badge/create-58a6ff?style=flat-square) | 🌿 Created branch [`main`](https://github.com/We-The-People-RP/.github/tree/main) in **[We-The-People-RP/.github](https://github.com/We-The-People-RP/.github)** | **[We-The-People-RP/.github](https://github.com/We-The-People-RP/.github)** |
 | ![create](https://img.shields.io/badge/create-58a6ff?style=flat-square) | 🌿 Created branch [`main`](https://github.com/ItzDabbzz/lua5.4_info/tree/main) in **[ItzDabbzz/lua5.4_info](https://github.com/ItzDabbzz/lua5.4_info)** | **[ItzDabbzz/lua5.4_info](https://github.com/ItzDabbzz/lua5.4_info)** |
 
@@ -64,4 +65,4 @@ Bio/Links
 
 ---
 
-Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Saturday%2C_July_11th_2026%2C_2%3A55%3A04-58a6ff?style=flat-square)</b>
+Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Sunday%2C_July_12th_2026%2C_3%3A20%3A03-58a6ff?style=flat-square)</b>
