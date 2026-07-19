@@ -24,13 +24,13 @@ Bio/Links
 
 | | Event | Repo |
 |---|---|---|
-| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/We-The-People-RP/.github/tree/main) in **[We-The-People-RP/.github](https://github.com/We-The-People-RP/.github)** ([`8f3c7e4`](https://github.com/We-The-People-RP/.github/commit/8f3c7e4eb35022b6e3baac4e540154986869b095)) | **[We-The-People-RP/.github](https://github.com/We-The-People-RP/.github)** |
-| ![member](https://img.shields.io/badge/member-a371f7?style=flat-square) | 👥 Added @tuffgamingsgt91-bot as collaborator to **[We-The-People-RP/.github](https://github.com/We-The-People-RP/.github)** | **[We-The-People-RP/.github](https://github.com/We-The-People-RP/.github)** |
-| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`feat/callback-v2`](https://github.com/We-The-People-RP/community_bridge/tree/feat%2Fcallback-v2) in **[We-The-People-RP/community_bridge](https://github.com/We-The-People-RP/community_bridge)** ([`15892f0`](https://github.com/We-The-People-RP/community_bridge/commit/15892f071a098fd6a86732659f19210ecca04237)) | **[We-The-People-RP/community_bridge](https://github.com/We-The-People-RP/community_bridge)** |
-| ![star](https://img.shields.io/badge/star-e3b341?style=flat-square) | ⭐ Starred **[qubitrepos/qubit-topology](https://github.com/qubitrepos/qubit-topology)** | **[qubitrepos/qubit-topology](https://github.com/qubitrepos/qubit-topology)** |
-| ![star](https://img.shields.io/badge/star-e3b341?style=flat-square) | ⭐ Starred **[RiceaRaul/gta-v-map-leaflet](https://github.com/RiceaRaul/gta-v-map-leaflet)** | **[RiceaRaul/gta-v-map-leaflet](https://github.com/RiceaRaul/gta-v-map-leaflet)** |
-| ![star](https://img.shields.io/badge/star-e3b341?style=flat-square) | ⭐ Starred **[kasuganosoras/zerodream_3dmap](https://github.com/kasuganosoras/zerodream_3dmap)** | **[kasuganosoras/zerodream_3dmap](https://github.com/kasuganosoras/zerodream_3dmap)** |
-| ![star](https://img.shields.io/badge/star-e3b341?style=flat-square) | ⭐ Starred **[omgugly/dlk_maps_fivem](https://github.com/omgugly/dlk_maps_fivem)** | **[omgugly/dlk_maps_fivem](https://github.com/omgugly/dlk_maps_fivem)** |
+| ![release](https://img.shields.io/badge/release-3fb950?style=flat-square) | 🚀 Published release [`V2.0.0`](https://github.com/We-The-People-RP/fivem-lua-lint-action/releases/tag/V2.0.0) in **[We-The-People-RP/fivem-lua-lint-action](https://github.com/We-The-People-RP/fivem-lua-lint-action)** | **[We-The-People-RP/fivem-lua-lint-action](https://github.com/We-The-People-RP/fivem-lua-lint-action)** |
+| ![delete](https://img.shields.io/badge/delete-f85149?style=flat-square) | 🗑️ Deleted tag `v2` in **[We-The-People-RP/fivem-lua-lint-action](https://github.com/We-The-People-RP/fivem-lua-lint-action)** | **[We-The-People-RP/fivem-lua-lint-action](https://github.com/We-The-People-RP/fivem-lua-lint-action)** |
+| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`v2`](https://github.com/We-The-People-RP/fivem-lua-lint-action/tree/v2) in **[We-The-People-RP/fivem-lua-lint-action](https://github.com/We-The-People-RP/fivem-lua-lint-action)** ([`bcbdabb`](https://github.com/We-The-People-RP/fivem-lua-lint-action/commit/bcbdabb969a3a45ba6c15edee7726b7e9a5dbb3e)) | **[We-The-People-RP/fivem-lua-lint-action](https://github.com/We-The-People-RP/fivem-lua-lint-action)** |
+| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`v2`](https://github.com/We-The-People-RP/fivem-lua-lint-action/tree/v2) in **[We-The-People-RP/fivem-lua-lint-action](https://github.com/We-The-People-RP/fivem-lua-lint-action)** ([`a4cc11f`](https://github.com/We-The-People-RP/fivem-lua-lint-action/commit/a4cc11f922ba843032142e477badb2562217e2c1)) | **[We-The-People-RP/fivem-lua-lint-action](https://github.com/We-The-People-RP/fivem-lua-lint-action)** |
+| ![release](https://img.shields.io/badge/release-3fb950?style=flat-square) | 🚀 Published release [`v1.0.0`](https://github.com/We-The-People-RP/luacheck/releases/tag/v1.0.0) in **[We-The-People-RP/luacheck](https://github.com/We-The-People-RP/luacheck)** | **[We-The-People-RP/luacheck](https://github.com/We-The-People-RP/luacheck)** |
+| ![fork](https://img.shields.io/badge/fork-56d364?style=flat-square) | 🍴 Forked **[iLLeniumStudios/luacheck](https://github.com/iLLeniumStudios/luacheck)** → **[We-The-People-RP/luacheck](https://github.com/We-The-People-RP/luacheck)** | **[iLLeniumStudios/luacheck](https://github.com/iLLeniumStudios/luacheck)** |
+| ![fork](https://img.shields.io/badge/fork-56d364?style=flat-square) | 🍴 Forked **[iLLeniumStudios/fivem-lua-lint-action](https://github.com/iLLeniumStudios/fivem-lua-lint-action)** → **[We-The-People-RP/fivem-lua-lint-action](https://github.com/We-The-People-RP/fivem-lua-lint-action)** | **[iLLeniumStudios/fivem-lua-lint-action](https://github.com/iLLeniumStudios/fivem-lua-lint-action)** |
 
 ---
 
@@ -68,4 +68,4 @@ Bio/Links
 
 ---
 
-Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Saturday%2C_July_18th_2026%2C_2%3A46%3A51-58a6ff?style=flat-square)</b>
+Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Sunday%2C_July_19th_2026%2C_3%3A16%3A41-58a6ff?style=flat-square)</b>
