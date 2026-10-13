@@ -37,39 +37,10 @@ Bio/Links
 # WakaTime
 
 ## ⏱ WakaTime Stats
-> Last 7 Days · **68 hrs 44 mins** · 🌍 America/Chicago
+> Last 7 Days · **undefined** · 🌍 America/Chicago
 
-![Total](https://img.shields.io/badge/Total-68%20hrs%2044%20mins-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-23-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-4-58a6ff?style=flat-square)
-
-## 🏆 Highlights
-- Top Language: **Java** (45.8%)
-
-### 💬 Languages
-| Name | Time | Usage |
-|------|------|-------|
-| ![Java](https://img.shields.io/badge/Java--58a6ff?style=flat-square) | 33h 12m | `█████████░░░░░░░░░░░` 45.8% |
-| ![YAML](https://img.shields.io/badge/YAML--58a6ff?style=flat-square) | 13h 51m | `████░░░░░░░░░░░░░░░░` 19.1% |
-| ![Python](https://img.shields.io/badge/Python--3572A5?style=flat-square) | 10h 58m | `███░░░░░░░░░░░░░░░░░` 15.1% |
-| ![Markdown](https://img.shields.io/badge/Markdown--58a6ff?style=flat-square) | 3h 56m | `█░░░░░░░░░░░░░░░░░░░` 5.4% |
-| ![Other](https://img.shields.io/badge/Other--58a6ff?style=flat-square) | 3h 44m | `█░░░░░░░░░░░░░░░░░░░` 5.2% |
-
-
-### 🔥 Editors
-| Name | Time | Usage |
-|------|------|-------|
-| ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA--58a6ff?style=flat-square) | 45h 9m | `████████████░░░░░░░░` 62.3% |
-| ![Codex Vscode](https://img.shields.io/badge/Codex%20Vscode--58a6ff?style=flat-square) | 16h 59m | `█████░░░░░░░░░░░░░░░` 23.4% |
-| ![VS Code](https://img.shields.io/badge/VS%20Code--58a6ff?style=flat-square) | 10h 18m | `███░░░░░░░░░░░░░░░░░` 14.2% |
-| ![Hermes](https://img.shields.io/badge/Hermes--58a6ff?style=flat-square) | 0m | `░░░░░░░░░░░░░░░░░░░░` 0.0% |
-
-
-### 🖥 OS
-| Name | Time | Usage |
-|------|------|-------|
-| ![Windows](https://img.shields.io/badge/Windows--58a6ff?style=flat-square) | 71h 11m | `████████████████████` 98.2% |
-| ![Linux](https://img.shields.io/badge/Linux--58a6ff?style=flat-square) | 1h 17m | `░░░░░░░░░░░░░░░░░░░░` 1.8% |
-
+![Total](https://img.shields.io/badge/Total-undefined-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-0-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-0-58a6ff?style=flat-square)
 
 ---
 
-Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Monday%2C_October_12th_2026%2C_5%3A09%3A06-58a6ff?style=flat-square)</b>
+Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Tuesday%2C_October_13th_2026%2C_6%3A08%3A23-58a6ff?style=flat-square)</b>
