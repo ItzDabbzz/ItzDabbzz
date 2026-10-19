@@ -37,40 +37,40 @@ Bio/Links
 # WakaTime
 
 ## ⏱ WakaTime Stats
-> Last 7 Days · **58 hrs 28 mins** · 🌍 America/Chicago
+> Last 7 Days · **56 hrs 4 mins** · 🌍 America/Chicago
 
-![Total](https://img.shields.io/badge/Total-58%20hrs%2028%20mins-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-19-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-5-58a6ff?style=flat-square)
+![Total](https://img.shields.io/badge/Total-56%20hrs%204%20mins-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-19-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-5-58a6ff?style=flat-square)
 
 ## 🏆 Highlights
-- Top Language: **TypeScript** (25.4%)
+- Top Language: **TypeScript** (31.0%)
 
 ### 💬 Languages
 | Name | Time | Usage |
 |------|------|-------|
-| ![TypeScript](https://img.shields.io/badge/TypeScript--3178c6?style=flat-square) | 16h 32m | `█████░░░░░░░░░░░░░░░` 25.4% |
-| ![Java](https://img.shields.io/badge/Java--58a6ff?style=flat-square) | 13h 29m | `████░░░░░░░░░░░░░░░░` 20.7% |
-| ![Markdown](https://img.shields.io/badge/Markdown--58a6ff?style=flat-square) | 8h 51m | `███░░░░░░░░░░░░░░░░░` 13.6% |
-| ![Python](https://img.shields.io/badge/Python--3572A5?style=flat-square) | 7h | `██░░░░░░░░░░░░░░░░░░` 10.8% |
-| ![Other](https://img.shields.io/badge/Other--58a6ff?style=flat-square) | 6h 40m | `██░░░░░░░░░░░░░░░░░░` 10.3% |
+| ![TypeScript](https://img.shields.io/badge/TypeScript--3178c6?style=flat-square) | 19h 11m | `██████░░░░░░░░░░░░░░` 31.0% |
+| ![Java](https://img.shields.io/badge/Java--58a6ff?style=flat-square) | 10h 59m | `████░░░░░░░░░░░░░░░░` 17.8% |
+| ![Markdown](https://img.shields.io/badge/Markdown--58a6ff?style=flat-square) | 8h 31m | `███░░░░░░░░░░░░░░░░░` 13.8% |
+| ![Other](https://img.shields.io/badge/Other--58a6ff?style=flat-square) | 5h 51m | `██░░░░░░░░░░░░░░░░░░` 9.4% |
+| ![Python](https://img.shields.io/badge/Python--3572A5?style=flat-square) | 5h 11m | `██░░░░░░░░░░░░░░░░░░` 8.4% |
 
 
 ### 🔥 Editors
 | Name | Time | Usage |
 |------|------|-------|
-| ![VS Code](https://img.shields.io/badge/VS%20Code--58a6ff?style=flat-square) | 34h 43m | `███████████░░░░░░░░░` 53.3% |
-| ![Codex Vscode](https://img.shields.io/badge/Codex%20Vscode--58a6ff?style=flat-square) | 17h 12m | `█████░░░░░░░░░░░░░░░` 26.4% |
-| ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA--58a6ff?style=flat-square) | 12h 5m | `████░░░░░░░░░░░░░░░░` 18.6% |
-| ![Opencode Cli](https://img.shields.io/badge/Opencode%20Cli--58a6ff?style=flat-square) | 1h | `░░░░░░░░░░░░░░░░░░░░` 1.5% |
-| ![Hermes](https://img.shields.io/badge/Hermes--58a6ff?style=flat-square) | 8m | `░░░░░░░░░░░░░░░░░░░░` 0.2% |
+| ![VS Code](https://img.shields.io/badge/VS%20Code--58a6ff?style=flat-square) | 40h 7m | `█████████████░░░░░░░` 64.8% |
+| ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA--58a6ff?style=flat-square) | 11h 18m | `████░░░░░░░░░░░░░░░░` 18.3% |
+| ![Codex Vscode](https://img.shields.io/badge/Codex%20Vscode--58a6ff?style=flat-square) | 9h 49m | `███░░░░░░░░░░░░░░░░░` 15.9% |
+| ![Opencode Cli](https://img.shields.io/badge/Opencode%20Cli--58a6ff?style=flat-square) | 28m | `░░░░░░░░░░░░░░░░░░░░` 0.8% |
+| ![Hermes](https://img.shields.io/badge/Hermes--58a6ff?style=flat-square) | 12m | `░░░░░░░░░░░░░░░░░░░░` 0.3% |
 
 
 ### 🖥 OS
 | Name | Time | Usage |
 |------|------|-------|
-| ![Linux](https://img.shields.io/badge/Linux--58a6ff?style=flat-square) | 33h 28m | `██████████░░░░░░░░░░` 51.4% |
-| ![Windows](https://img.shields.io/badge/Windows--58a6ff?style=flat-square) | 31h 41m | `██████████░░░░░░░░░░` 48.6% |
+| ![Linux](https://img.shields.io/badge/Linux--58a6ff?style=flat-square) | 38h 56m | `█████████████░░░░░░░` 62.9% |
+| ![Windows](https://img.shields.io/badge/Windows--58a6ff?style=flat-square) | 22h 59m | `███████░░░░░░░░░░░░░` 37.1% |
 
 
 ---
 
-Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Sunday%2C_October_18th_2026%2C_3%3A45%3A59-58a6ff?style=flat-square)</b>
+Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Monday%2C_October_19th_2026%2C_3%3A55%3A44-58a6ff?style=flat-square)</b>
