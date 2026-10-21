@@ -24,53 +24,23 @@ Bio/Links
 
 | | Event | Repo |
 |---|---|---|
+| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/ItzDabbzz/dabz_sl/tree/main) in **[ItzDabbzz/dabz_sl](https://github.com/ItzDabbzz/dabz_sl)** ([`65ec246`](https://github.com/ItzDabbzz/dabz_sl/commit/65ec246ce13b09f6f0a0ab6e374ece2565f4d4d2)) | **[ItzDabbzz/dabz_sl](https://github.com/ItzDabbzz/dabz_sl)** |
+| ![create](https://img.shields.io/badge/create-58a6ff?style=flat-square) | 🌿 Created branch [`fix/node-connection-address-behind-proxy`](https://github.com/ItzDabbzz/panel/tree/fix%2Fnode-connection-address-behind-proxy) in **[ItzDabbzz/panel](https://github.com/ItzDabbzz/panel)** | **[ItzDabbzz/panel](https://github.com/ItzDabbzz/panel)** |
+| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/ItzDabbzz/dabz_sl/tree/main) in **[ItzDabbzz/dabz_sl](https://github.com/ItzDabbzz/dabz_sl)** ([`eb66a47`](https://github.com/ItzDabbzz/dabz_sl/commit/eb66a47a99a81c6476680333e6311c2589de5452)) | **[ItzDabbzz/dabz_sl](https://github.com/ItzDabbzz/dabz_sl)** |
+| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/ItzDabbzz/dabz_sl/tree/main) in **[ItzDabbzz/dabz_sl](https://github.com/ItzDabbzz/dabz_sl)** ([`4b4c4a3`](https://github.com/ItzDabbzz/dabz_sl/commit/4b4c4a340036c4f843188e63bffbe66c0477d85b)) | **[ItzDabbzz/dabz_sl](https://github.com/ItzDabbzz/dabz_sl)** |
+| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/ItzDabbzz/dabz_sl/tree/main) in **[ItzDabbzz/dabz_sl](https://github.com/ItzDabbzz/dabz_sl)** ([`138b232`](https://github.com/ItzDabbzz/dabz_sl/commit/138b232069fe6b7bd9d7cf8d5c37d48434da06cb)) | **[ItzDabbzz/dabz_sl](https://github.com/ItzDabbzz/dabz_sl)** |
+| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/ItzDabbzz/dabz_sl/tree/main) in **[ItzDabbzz/dabz_sl](https://github.com/ItzDabbzz/dabz_sl)** ([`096535f`](https://github.com/ItzDabbzz/dabz_sl/commit/096535fe228c567a3ff26d382f45e49955483f14)) | **[ItzDabbzz/dabz_sl](https://github.com/ItzDabbzz/dabz_sl)** |
 | ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/ItzDabbzz/dabz_sl/tree/main) in **[ItzDabbzz/dabz_sl](https://github.com/ItzDabbzz/dabz_sl)** ([`e899032`](https://github.com/ItzDabbzz/dabz_sl/commit/e8990329bf34531906930c557f41b66185d38518)) | **[ItzDabbzz/dabz_sl](https://github.com/ItzDabbzz/dabz_sl)** |
-| ![fork](https://img.shields.io/badge/fork-56d364?style=flat-square) | 🍴 Forked **[reviactyl/panel](https://github.com/reviactyl/panel)** → **[ItzDabbzz/panel](https://github.com/ItzDabbzz/panel)** | **[reviactyl/panel](https://github.com/reviactyl/panel)** |
-| ![PR](https://img.shields.io/badge/PR-a371f7?style=flat-square) | 🔀 Closed PR [#601](https://github.com/reviactyl/panel/pull/601) in **[reviactyl/panel](https://github.com/reviactyl/panel)** | **[reviactyl/panel](https://github.com/reviactyl/panel)** |
-| ![PR](https://img.shields.io/badge/PR-a371f7?style=flat-square) | 🔀 Opened PR [#601](https://github.com/reviactyl/panel/pull/601) in **[reviactyl/panel](https://github.com/reviactyl/panel)** | **[reviactyl/panel](https://github.com/reviactyl/panel)** |
-| ![star](https://img.shields.io/badge/star-e3b341?style=flat-square) | ⭐ Starred **[Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)** | **[Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)** |
-| ![star](https://img.shields.io/badge/star-e3b341?style=flat-square) | ⭐ Starred **[storytold/photocraft](https://github.com/storytold/photocraft)** | **[storytold/photocraft](https://github.com/storytold/photocraft)** |
-| ![star](https://img.shields.io/badge/star-e3b341?style=flat-square) | ⭐ Starred **[morhetz/gruvbox](https://github.com/morhetz/gruvbox)** | **[morhetz/gruvbox](https://github.com/morhetz/gruvbox)** |
 
 ---
 
 # WakaTime
 
 ## ⏱ WakaTime Stats
-> Last 7 Days · **50 hrs 35 mins** · 🌍 America/Chicago
+> Last 7 Days · **undefined** · 🌍 America/Chicago
 
-![Total](https://img.shields.io/badge/Total-50%20hrs%2035%20mins-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-20-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-5-58a6ff?style=flat-square)
-
-## 🏆 Highlights
-- Top Language: **TypeScript** (39.9%)
-
-### 💬 Languages
-| Name | Time | Usage |
-|------|------|-------|
-| ![TypeScript](https://img.shields.io/badge/TypeScript--3178c6?style=flat-square) | 22h 38m | `████████░░░░░░░░░░░░` 39.9% |
-| ![Markdown](https://img.shields.io/badge/Markdown--58a6ff?style=flat-square) | 7h 56m | `███░░░░░░░░░░░░░░░░░` 14.0% |
-| ![Other](https://img.shields.io/badge/Other--58a6ff?style=flat-square) | 6h 12m | `██░░░░░░░░░░░░░░░░░░` 10.9% |
-| ![Java](https://img.shields.io/badge/Java--58a6ff?style=flat-square) | 5h 58m | `██░░░░░░░░░░░░░░░░░░` 10.5% |
-| ![Python](https://img.shields.io/badge/Python--3572A5?style=flat-square) | 4h 46m | `██░░░░░░░░░░░░░░░░░░` 8.4% |
-
-
-### 🔥 Editors
-| Name | Time | Usage |
-|------|------|-------|
-| ![VS Code](https://img.shields.io/badge/VS%20Code--58a6ff?style=flat-square) | 42h 1m | `███████████████░░░░░` 74.0% |
-| ![Codex Vscode](https://img.shields.io/badge/Codex%20Vscode--58a6ff?style=flat-square) | 9h 21m | `███░░░░░░░░░░░░░░░░░` 16.5% |
-| ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA--58a6ff?style=flat-square) | 3h 3m | `█░░░░░░░░░░░░░░░░░░░` 5.4% |
-| ![Opencode Cli](https://img.shields.io/badge/Opencode%20Cli--58a6ff?style=flat-square) | 2h 7m | `█░░░░░░░░░░░░░░░░░░░` 3.8% |
-| ![Hermes](https://img.shields.io/badge/Hermes--58a6ff?style=flat-square) | 12m | `░░░░░░░░░░░░░░░░░░░░` 0.4% |
-
-
-### 🖥 OS
-| Name | Time | Usage |
-|------|------|-------|
-| ![Linux](https://img.shields.io/badge/Linux--58a6ff?style=flat-square) | 43h 56m | `███████████████░░░░░` 77.4% |
-| ![Windows](https://img.shields.io/badge/Windows--58a6ff?style=flat-square) | 12h 50m | `█████░░░░░░░░░░░░░░░` 22.6% |
-
+![Total](https://img.shields.io/badge/Total-undefined-58a6ff?style=flat-square) ![Languages](https://img.shields.io/badge/Languages-0-58a6ff?style=flat-square) ![Editors](https://img.shields.io/badge/Editors-0-58a6ff?style=flat-square)
 
 ---
 
-Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Tuesday%2C_October_20th_2026%2C_4%3A08%3A14-58a6ff?style=flat-square)</b>
+Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Wednesday%2C_October_21st_2026%2C_3%3A56%3A39-58a6ff?style=flat-square)</b>
