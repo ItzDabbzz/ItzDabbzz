@@ -24,13 +24,13 @@ Bio/Links
 
 | | Event | Repo |
 |---|---|---|
+| ![delete](https://img.shields.io/badge/delete-f85149?style=flat-square) | 🗑️ Deleted tag `v0.13.0.0` in **[ItzDabbzz/jellyfin-plugin-streamfin](https://github.com/ItzDabbzz/jellyfin-plugin-streamfin)** | **[ItzDabbzz/jellyfin-plugin-streamfin](https://github.com/ItzDabbzz/jellyfin-plugin-streamfin)** |
+| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/ItzDabbzz/jellyfin-plugin-streamfin/tree/main) in **[ItzDabbzz/jellyfin-plugin-streamfin](https://github.com/ItzDabbzz/jellyfin-plugin-streamfin)** ([`d8c70a9`](https://github.com/ItzDabbzz/jellyfin-plugin-streamfin/commit/d8c70a9e1465a70713683e5efd46135b494d880e)) | **[ItzDabbzz/jellyfin-plugin-streamfin](https://github.com/ItzDabbzz/jellyfin-plugin-streamfin)** |
+| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/ItzDabbzz/ItzDabbzz/tree/main) in **[ItzDabbzz/ItzDabbzz](https://github.com/ItzDabbzz/ItzDabbzz)** ([`8e6d617`](https://github.com/ItzDabbzz/ItzDabbzz/commit/8e6d6172c5e18b7141e2d57cb4b87de4ec7391d8)) | **[ItzDabbzz/ItzDabbzz](https://github.com/ItzDabbzz/ItzDabbzz)** |
+| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/ItzDabbzz/jellyfin-plugin-streamfin/tree/main) in **[ItzDabbzz/jellyfin-plugin-streamfin](https://github.com/ItzDabbzz/jellyfin-plugin-streamfin)** ([`1c97e23`](https://github.com/ItzDabbzz/jellyfin-plugin-streamfin/commit/1c97e234d41f37e5ef1b25f6fc7c493a36cb5c10)) | **[ItzDabbzz/jellyfin-plugin-streamfin](https://github.com/ItzDabbzz/jellyfin-plugin-streamfin)** |
 | ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/ItzDabbzz/jellyfin-plugin-streamfin/tree/main) in **[ItzDabbzz/jellyfin-plugin-streamfin](https://github.com/ItzDabbzz/jellyfin-plugin-streamfin)** ([`f34fd7e`](https://github.com/ItzDabbzz/jellyfin-plugin-streamfin/commit/f34fd7e3147a26c61d8768bdab3f88b2ce1edb88)) | **[ItzDabbzz/jellyfin-plugin-streamfin](https://github.com/ItzDabbzz/jellyfin-plugin-streamfin)** |
 | ![public](https://img.shields.io/badge/public-3fb950?style=flat-square) | 🎉 Made **[the-homestead/postgres](https://github.com/the-homestead/postgres)** public | **[the-homestead/postgres](https://github.com/the-homestead/postgres)** |
 | ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/ItzDabbzz/jellyfin-plugin-streamfin/tree/main) in **[ItzDabbzz/jellyfin-plugin-streamfin](https://github.com/ItzDabbzz/jellyfin-plugin-streamfin)** ([`cb70270`](https://github.com/ItzDabbzz/jellyfin-plugin-streamfin/commit/cb70270ef52877bfd7d8e0f9380dceae2073b752)) | **[ItzDabbzz/jellyfin-plugin-streamfin](https://github.com/ItzDabbzz/jellyfin-plugin-streamfin)** |
-| ![create](https://img.shields.io/badge/create-58a6ff?style=flat-square) | 🌿 Created branch [`release-12.z`](https://github.com/ItzDabbzz/jellyfin/tree/release-12.z) in **[ItzDabbzz/jellyfin](https://github.com/ItzDabbzz/jellyfin)** | **[ItzDabbzz/jellyfin](https://github.com/ItzDabbzz/jellyfin)** |
-| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/ItzDabbzz/jellyfin-plugin-streamfin/tree/main) in **[ItzDabbzz/jellyfin-plugin-streamfin](https://github.com/ItzDabbzz/jellyfin-plugin-streamfin)** ([`f82139a`](https://github.com/ItzDabbzz/jellyfin-plugin-streamfin/commit/f82139ac1646ffe485dd4c24611e9408bf94ecc4)) | **[ItzDabbzz/jellyfin-plugin-streamfin](https://github.com/ItzDabbzz/jellyfin-plugin-streamfin)** |
-| ![push](https://img.shields.io/badge/push-4c9be8?style=flat-square) | ⬆️ Pushed to [`main`](https://github.com/ItzDabbzz/jellyfin-plugin-streamfin/tree/main) in **[ItzDabbzz/jellyfin-plugin-streamfin](https://github.com/ItzDabbzz/jellyfin-plugin-streamfin)** ([`5ba2ecc`](https://github.com/ItzDabbzz/jellyfin-plugin-streamfin/commit/5ba2ecc2aff52e17cdb44dac38a795494c8a99c2)) | **[ItzDabbzz/jellyfin-plugin-streamfin](https://github.com/ItzDabbzz/jellyfin-plugin-streamfin)** |
-| ![fork](https://img.shields.io/badge/fork-56d364?style=flat-square) | 🍴 Forked **[jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)** → **[ItzDabbzz/jellyfin](https://github.com/ItzDabbzz/jellyfin)** | **[jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)** |
 
 ---
 
@@ -40,4 +40,4 @@ Bio/Links
 
 ---
 
-Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Tuesday%2C_November_10th_2026%2C_6%3A38%3A07-58a6ff?style=flat-square)</b>
+Last refresh: <b>![Updated](https://img.shields.io/badge/Updated-Wednesday%2C_November_11th_2026%2C_5%3A25%3A24-58a6ff?style=flat-square)</b>
